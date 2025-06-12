@@ -1,0 +1,55 @@
+name: Publish 5 Blog Posts Daily
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs at 8 AM UTC every day
+  workflow_dispatch:     # Allows manual run from GitHub UI
+
+jobs:
+  publish:
+    name: Update & Publish New Blog Posts
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Python dependencies
+        run: |
+          pip install python-frontmatter
+
+      - name: Publish next 5 blog posts
+        run: |
+          python scripts/update-posts.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git commit -m "Published 5 new blog posts"
+          git push origin main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 20
+
+      - name: Install npm dependencies
+        run: |
+          npm install
+
+      - name: Build site
+        run: |
+          npm run build
+
+      - name: Deploy via GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
