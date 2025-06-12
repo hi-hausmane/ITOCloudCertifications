@@ -1,0 +1,69 @@
+/* src/components/blog.css */
+
+.prose :where(h1):not(:is(h2, h3, h4, h5, h6)) {
+  @apply text-3xl font-bold mt-8 mb-4;
+}
+
+.prose :where(h2):not(:is(h3, h4, h5, h6)) {
+  @apply text-2xl font-semibold mt-6 mb-3 border-b border-slate-700 pb-1;
+}
+
+.prose :where(h3):not(:is(h4, h5, h6)) {
+  @apply text-xl font-medium mt-5 mb-2;
+}
+
+.prose p {
+  @apply mb-4 text-slate-300 leading-relaxed;
+}
+
+.prose a {
+  @apply text-blue-400 underline hover:text-blue-300;
+}
+
+.prose ul, .prose ol {
+  @apply mb-4 ml-6;
+}
+
+.prose li {
+  @apply mb-2;
+}
+
+.prose blockquote {
+  @apply border-l-4 border-slate-600 pl-4 italic text-slate-400;
+}
+
+.prose pre {
+  @apply bg-slate-900 rounded-lg p-4 overflow-x-auto shadow-inner text-sm;
+}
+
+.prose code {
+  @apply bg-slate-800 px-1 py-0.5 rounded-md text-blue-300;
+}
+
+.prose hr {
+  @apply border-slate-700 my-8;
+}
+
+.prose table {
+  @apply table-auto w-full text-left mb-6;
+}
+
+.prose th {
+  @apply bg-slate-800 px-4 py-2 font-semibold text-white border-b border-slate-700;
+}
+
+.prose td {
+  @apply px-4 py-2 border-b border-slate-700 text-slate-300;
+}
+
+.prose img {
+  @apply max-w-full h-auto rounded-lg shadow-md;
+}
+
+.prose strong {
+  @apply font-semibold text-white;
+}
+
+.prose em {
+  @apply italic text-slate-300;
+}

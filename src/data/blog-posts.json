@@ -1,0 +1,80 @@
+[
+  {
+    "slug": "aws-solutions-architect-associate-what-you-need-to-know",
+    "content": "\n# AWS Solutions Architect Associate: What You Need to Know\n\nThe **AWS Certified Solutions Architect – Associate** is one of the most popular and respected cloud certifications in the world.\n\nLet’s walk through everything you need to know before taking the exam.\n\n## 🧩 What Is the AWS Solutions Architect – Associate?\n\nIt validates that you have the skills to design and deploy secure, scalable, and cost-effective applications on AWS.\n\nIt’s great for:\n- Developers wanting to specialize in cloud architecture\n- Sysadmins transitioning to cloud engineering\n- Newcomers ready to break into the field\n\n[Official Exam Page](https://aws.amazon.com/certification/certified-solutions-architect-associate/) \n\n## 📚 Key Topics Covered\n\n| Domain | Weight |\n|--------|--------|\n| Design Resilient Architectures | 30% |\n| Define Performant Operations | 26% |\n| Specify Secure Applications | 24% |\n| Cost-Optimized Architecture | 20% |\n\nYou'll need to master core services like:\n- Amazon EC2\n- Amazon S3\n- VPC\n- IAM\n- Lambda\n- RDS\n\n[See the full list of services on AWS Docs](https://docs.aws.amazon.com/wellarch/latest/solutions-architect-associate.html) \n\n## ⏳ How Long Should You Study?\n\nMost candidates spend **2–3 months** preparing if they study 10–15 hours per week.\n\nUse the [AWS Certification Roadmap](https://aws.amazon.com/certification/certification-roadmap/)  to help choose your next steps.\n\n## 🎯 Tips for Passing the Exam\n\n1. Use hands-on labs (AWS Free Tier is perfect for this)\n2. Watch training videos from AWS Training and Partner Network\n3. Take multiple practice exams\n4. Focus on security, cost optimization, and disaster recovery\n\n📘 Official preparation guide: [Exam Guide - AWS SA-A Associate](https://d1.awsstatic.com/training-and-certification/docs-solutions-architect-assoc-learning-path.pdf) \n\n---\n\n## 🔄 Internal Links\n\nWant to learn from someone who did it successfully? Read [My AWS Certification Journey](/blog/from-zero-to-cloud-hero-my-journey-to-aws-certification)\n\nOr check out [Why AWS Professionals Are in High Demand](/blog/why-aws-certified-professionals-are-in-high-demand)\n\n---\n\n## 🧠 Final Thoughts\n\nThe AWS Solutions Architect – Associate certification is a solid foundation for a long-term cloud career.\n\nPassing it sets you up for advanced certifications like:\n\n- AWS Certified Developer – Associate\n- AWS Certified DevOps Engineer – Professional\n- AWS Certified Solutions Architect – Professional\n\nReady to start? Here’s the [official exam blueprint](https://aws.amazon.com/certification/exam-readiness-training/). \n\nGood luck!",
+    "title": "AWS Solutions Architect Associate: What You Need to Know",
+    "date": "2025-04-11",
+    "description": "A complete guide to the AWS Solutions Architect Associate certification — what's on the exam, how to prepare, and why it matters.",
+    "category": "Certification Guide",
+    "keywords": [
+      "aws solutions architect associate",
+      "aws saa-c03 study guide",
+      "aws certification exam prep",
+      "aws certification roadmap"
+    ]
+  },
+  {
+    "slug": "why-aws-certified-professionals-are-in-high-demand",
+    "content": "\n# Why AWS Certified Professionals Are in High Demand\n\nCloud adoption is accelerating, and **AWS leads the market** with over **30% share of global cloud services**.\n\nThis massive growth has created a surge in demand for skilled AWS professionals.\n\n## 1. AWS Dominates the Cloud Market\n\nAccording to Gartner, AWS is the leader in Infrastructure-as-a-Service and Platform-as-a-Service.\n\nThis means more companies are using AWS — and they need people who know how to run it.\n\n## 2. Companies Trust AWS Certifications\n\nTech giants like Apple, Google, and Microsoft use AWS for critical infrastructure — and they look for certified talent.\n\nThe [AWS Certified Solutions Architect – Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)  is one of the most respected certifications in the industry.\n\n## 3. Cloud Roles Are Growing Fast\n\nLinkedIn reports show that cloud-related roles are growing faster than any other tech field — and AWS certifications are the most requested.\n\n## 4. Remote Work Opportunities\n\nBecause AWS is fully online, certified professionals can work from anywhere — making it ideal for digital nomads or remote-first developers.\n\n## 5. Upskill Without Starting Over\n\nYou don’t need to quit your current job to become AWS certified. You can upskill during evenings and weekends — then transition into a cloud role.\n\n📌 For more on preparing for the exam, read: [What You Need to Know About the AWS Solutions Architect Exam](/blog/aws-solutions-architect-associate-what-you-need-to-know)\n\n---\n\n## ✅ Summary\n\nAWS-certified professionals are in high demand because:\n- AWS dominates the cloud market\n- Employers trust AWS certifications\n- Cloud roles are growing fast\n- Remote work is widely supported\n- You can upskill without leaving your job\n\nStart your journey today.",
+    "title": "Why AWS Certified Professionals Are in High Demand",
+    "date": "2025-04-10",
+    "description": "Discover why AWS-certified professionals are highly sought after in today's job market.",
+    "category": "Career",
+    "keywords": [
+      "aws certified in demand",
+      "aws job market",
+      "aws certification job outlook",
+      "aws career opportunities"
+    ]
+  },
+  {
+    "slug": "from-zero-to-cloud-hero-my-journey-to-aws-certification",
+    "content": "\n# From Zero to Cloud Hero: My Journey to AWS Certification\n\nThree months ago, I barely knew what EC2 was. Today, I'm proud to say I’m **AWS Certified** — and working as a cloud engineer at a major tech firm.\n\n## Why I Started\n\nI had a stable dev job, but something was missing — I wanted to build scalable systems, design cloud-native applications, and work on cutting-edge infrastructure.\n\nSo I made a plan to pass the [AWS Certified Solutions Architect – Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/). \n\n## Step-by-Step Breakdown\n\n### Week 1–2: Research + Study Plan\nI used the [official AWS certification prep page](https://aws.amazon.com/certification/certification-prep/)  to create a structured learning path.\n\n### Week 3–6: Deep Dive Learning\nI followed these resources:\n- AWS Certified Solutions Architect – Associate video course (Udemy)\n- Hands-on labs via AWS Free Tier\n- Practice exams from Tutorials Dojo\n\n### Week 7–8: Mock Exams\nI took 5 full-length practice exams and focused on areas where I scored low.\n\n### Week 9: Passed the Exam!\n\nI scored 92% on my first try — and felt confident answering every question.\n\n## Lessons Learned\n\n- Start with the [AWS Free Tier](https://aws.amazon.com/free/) \n- Use the [AWS Certified Solutions Architect Study Guide](https://www.oreilly.com/library/view/aws-certified-solutions-architect/9781119716202-a9a4c8dc-dba1-4b21-b8bf-ed5c53f3e18e.xhtml) \n- Take notes while studying — don’t rely on memory alone\n\n💡 Want to start your own journey? Check out our guide: [What You Need to Know About the AWS Solutions Architect Exam](/blog/aws-solutions-architect-associate-what-you-need-to-know)\n\nYou’ve got this!",
+    "title": "From Zero to Cloud Hero: My Journey to AWS Certification",
+    "date": "2025-04-09",
+    "description": "A personal story of going from cloud beginner to AWS Certified Solutions Architect – Associate in under 3 months.",
+    "category": "Success Story",
+    "keywords": [
+      "aws certification journey",
+      "aws solutions architect success story",
+      "aws certification experience",
+      "aws certification tips"
+    ]
+  },
+  {
+    "slug": "top-5-reasons-to-get-aws-certified-this-year",
+    "content": "\n# Top 5 Reasons to Get AWS Certified This Year\n\nEarning an AWS certification is more than just adding a line to your resume — it’s a strategic career move.\n\nHere are the top 5 reasons to get AWS certified this year:\n\n## 1. Increase Your Earning Potential\n\nAs covered in our previous post on [AWS Certification and Salary](/blog/how-aws-certification-can-boost-your-salary-in-2024), certified AWS professionals earn significantly more than their non-certified peers.\n\nWhether you're aiming to be a DevOps engineer or a full-stack cloud architect, certification opens doors to higher-paying roles.\n\n## 2. Stand Out in a Competitive Job Market\n\nCloud computing jobs are growing rapidly, but so is competition.\n\nAn AWS certification proves you've passed rigorous exams designed by Amazon itself — giving employers confidence in your skills.\n\nCheck out the [AWS Certification Path](https://aws.amazon.com/certification/certification-prep/)  to find which one fits your goals.\n\n## 3. Future-Proof Your Career\n\nOrganizations are doubling down on cloud infrastructure. With AWS leading the market, having AWS expertise makes you future-proof in a fast-changing tech landscape.\n\n## 4. Access Better Job Opportunities\n\nCompanies like Netflix, Expedia, and Capital One actively seek AWS-certified professionals. Some even require it for promotion eligibility.\n\n## 5. Improve Technical Depth\n\nCertifications aren’t easy — they force you to deeply understand services like EC2, S3, Lambda, and RDS — all essential tools in modern development.\n\n✅ Ready to take the plunge? Our next post will guide you through a [real AWS certification journey](/blog/from-zero-to-cloud-hero-my-journey-to-aws-certification).",
+    "title": "Top 5 Reasons to Get AWS Certified This Year",
+    "date": "2025-04-08",
+    "description": "From salary increases to job security, here are the top reasons to become AWS Certified in 2024.",
+    "category": "Motivation",
+    "keywords": [
+      "aws certification benefits",
+      "reasons to get aws certified",
+      "aws career growth",
+      "aws certification advantages"
+    ]
+  },
+  {
+    "slug": "how-aws-certification-can-boost-your-salary-in-2024",
+    "content": "\n# How AWS Certification Can Boost Your Salary in 2024\n\nIn 2024, cloud computing remains one of the most in-demand skills across industries — and **AWS Certified professionals** are among the highest-paid in tech.\n\n## Why AWS Pays So Well\n\nAmazon Web Services (AWS) powers some of the world’s largest companies, including Netflix, Airbnb, and even NASA. As more organizations move to the cloud, demand for skilled AWS engineers continues to rise.\n\nAccording to the [2024 Global Knowledge IT Skills and Salary Report](https://www.globalknowledge.com),  **AWS Certified Solutions Architects** earn an average of **$130,000+ per year**, with senior roles hitting well over $160k.\n\n> 💡 *Pro Tip:* Want to see real job listings and salaries? Check out the official [AWS Career Center](https://aws.amazon.com/careers/). \n\n## Real-World Examples\n\n- A mid-level DevOps engineer without AWS certs: ~$90,000  \n- The same engineer after earning AWS Certified Solutions Architect – Associate: ~$125,000+\n- Senior AWS Engineer or Cloud Architect: Often **$150,000–$180,000**\n\nMany companies also offer **signing bonuses**, remote work flexibility, and equity packages for AWS-certified hires.\n\n## What You Need to Know\n\nThe [AWS Certified Solutions Architect – Associate (SAA-C03)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)  is often the first step. It covers:\n\n- Designing resilient architectures\n- Cost optimization strategies\n- Security best practices\n- Deployment automation\n\nAnd once you pass, you're not just another developer — you're a **cloud-ready asset** that companies want.\n\n## Final Thoughts\n\nIf you're looking to boost your income and job opportunities, there's no better time than now to get certified.\n\n👉 In our next post, we'll explore the [Top 5 Reasons to Get AWS Certified This Year](/blog/top-5-reasons-to-get-aws-certified-this-year).",
+    "title": "How AWS Certification Can Boost Your Salary in 2024",
+    "date": "2025-04-07",
+    "description": "AWS certification isn't just a badge — it's a career booster. Learn how earning an AWS certification can increase your salary by thousands of dollars.",
+    "category": "Salary & Career",
+    "keywords": [
+      "aws certification salary",
+      "aws certified income",
+      "cloud engineer salary",
+      "aws solutions architect salary",
+      "aws certification value"
+    ]
+  },
+  {
+    "slug": "hello-world",
+    "content": "\n# Welcome to the Horizons Blog!\n\nThis is our first blog post about cloud computing, AWS certifications, and learning paths for developers.\n",
+    "title": "Hello World",
+    "date": "2025-04-05",
+    "description": "Welcome to the Horizons blog!"
+  }
+]
