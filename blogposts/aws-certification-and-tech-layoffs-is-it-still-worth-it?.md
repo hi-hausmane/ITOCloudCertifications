@@ -2,7 +2,7 @@
 title: "AWS Certification and Tech Layoffs: Is It Still Worth It?"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification and Tech Layoffs: Is It Still Worth It?"
-published: false
+published: true
 category: "Cloud Trends"
 keywords: ["aws, certification, and, tech, layoffs:, is, it, still, worth, it?"]
 ---

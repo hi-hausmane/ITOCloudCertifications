@@ -2,7 +2,7 @@
 title: "AWS Certification and Freelancing Opportunities"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification and Freelancing Opportunities"
-published: false
+published: true
 category: "Salary & Career"
 keywords: ["aws, certification, and, freelancing, opportunities"]
 ---

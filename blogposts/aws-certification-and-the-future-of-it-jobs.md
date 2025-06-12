@@ -2,7 +2,7 @@
 title: "AWS Certification and the Future of IT Jobs"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification and the Future of IT Jobs"
-published: false
+published: true
 category: "Cloud Trends"
 keywords: ["aws, certification, and, the, future, of, it, jobs"]
 ---

@@ -2,7 +2,7 @@
 title: "AWS Certification and Remote Work Opportunities"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification and Remote Work Opportunities"
-published: false
+published: true
 category: "Salary & Career"
 keywords: ["aws, certification, and, remote, work, opportunities"]
 ---

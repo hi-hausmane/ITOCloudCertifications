@@ -2,7 +2,7 @@
 title: "10 Common Mistakes to Avoid on the AWS Exam"
 date: "2025-06-12"
 description: "A detailed guide on 10 Common Mistakes to Avoid on the AWS Exam"
-published: false
+published: true
 category: "Exam Tips"
 keywords: ["10, common, mistakes, to, avoid, on, the, aws, exam"]
 ---
