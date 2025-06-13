@@ -2,7 +2,7 @@
 title: "AWS Certification Benefits for Small Business Owners"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification Benefits for Small Business Owners"
-published: false
+published: true
 category: "Entrepreneurship"
 keywords: ["aws, certification, benefits, for, small, business, owners"]
 ---

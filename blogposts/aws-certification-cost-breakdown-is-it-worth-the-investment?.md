@@ -2,7 +2,7 @@
 title: "AWS Certification Cost Breakdown: Is It Worth the Investment?"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification Cost Breakdown: Is It Worth the Investment?"
-published: false
+published: true
 category: "Salary & Career"
 keywords: ["aws, certification, cost, breakdown:, is, it, worth, the, investment?"]
 ---

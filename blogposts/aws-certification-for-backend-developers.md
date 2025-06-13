@@ -2,7 +2,7 @@
 title: "AWS Certification for Backend Developers"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for Backend Developers"
-published: false
+published: true
 category: "Success Story"
 keywords: ["aws, certification, for, backend, developers"]
 ---

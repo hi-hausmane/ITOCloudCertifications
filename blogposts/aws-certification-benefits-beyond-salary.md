@@ -2,7 +2,7 @@
 title: "AWS Certification Benefits Beyond Salary"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification Benefits Beyond Salary"
-published: false
+published: true
 category: "Salary & Career"
 keywords: ["aws, certification, benefits, beyond, salary"]
 ---

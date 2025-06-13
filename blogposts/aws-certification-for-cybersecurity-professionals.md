@@ -2,7 +2,7 @@
 title: "AWS Certification for Cybersecurity Professionals"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for Cybersecurity Professionals"
-published: false
+published: true
 category: "Success Story"
 keywords: ["aws, certification, for, cybersecurity, professionals"]
 ---
