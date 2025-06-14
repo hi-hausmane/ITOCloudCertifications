@@ -2,7 +2,7 @@
 title: "AWS Certification for Freshers: Is It Right for You?"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for Freshers: Is It Right for You?"
-published: false
+published: true
 category: "Motivation"
 keywords: ["aws, certification, for, freshers:, is, it, right, for, you?"]
 ---

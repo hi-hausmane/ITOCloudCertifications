@@ -2,7 +2,7 @@
 title: "AWS Certification for Data Scientists"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for Data Scientists"
-published: false
+published: true
 category: "Certification Guide"
 keywords: ["aws, certification, for, data, scientists"]
 ---

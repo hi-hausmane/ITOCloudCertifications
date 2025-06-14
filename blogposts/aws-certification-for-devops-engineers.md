@@ -2,7 +2,7 @@
 title: "AWS Certification for DevOps Engineers"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for DevOps Engineers"
-published: false
+published: true
 category: "Exam Experience"
 keywords: ["aws, certification, for, devops, engineers"]
 ---

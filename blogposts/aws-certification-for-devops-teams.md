@@ -2,7 +2,7 @@
 title: "AWS Certification for DevOps Teams"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for DevOps Teams"
-published: false
+published: true
 category: "Study Tips"
 keywords: ["aws, certification, for, devops, teams"]
 ---
