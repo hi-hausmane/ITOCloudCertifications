@@ -1,0 +1,49 @@
+name: Publish 5 Jobs Daily
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Runs at 8 AM UTC every day
+  workflow_dispatch:     # Manual trigger available
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v3
+        with:
+          python-version: "3.10"
+
+      - name: Install Python dependencies
+        run: |
+          pip install python-frontmatter
+
+      - name: Publish next 5 jobs
+        run: |
+          python scripts/publish_next_job.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Published 5 new cloud jobs in Morocco"
+          git push origin main
+
+      - name: Build site
+        run: |
+          npm install
+          node --experimental-specifier-resolution=node scripts/generate-job-data.mjs
+          npm run build
+
+      - name: Deploy via Netlify
+        uses: netlify/actions/deploy@master
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          production_branch: main

@@ -4,6 +4,8 @@ import { Toaster } from '@/components/ui/toaster';
 // Components
 import BlogList from '@/components/BlogList';
 import BlogPost from '@/components/BlogPost';
+import JobsList from '@/components/JobsList';
+import JobPost from '@/components/JobPost';
 
 import Header from '@/components/Header';
 import HeroSection from '@/components/HeroSection';
@@ -18,6 +20,7 @@ import EmailCaptureModal from '@/components/EmailCaptureModal';
 
 // Utils
 import { getSortedPostsData, getPostData } from '@/utils/blogReader';
+import { getSortedJobData, getJobData } from '@/utils/jobReader';  // ← We'll create this next
 
 function App() {
   const [isModalOpen, setIsModalOpen] = useState(false);
@@ -33,17 +36,26 @@ function App() {
 
   let pageContent;
 
+  // --- BLOG ROUTES ---
   if (path === '/blog') {
-    // Show blog index
     const posts = getSortedPostsData();
     pageContent = <BlogList posts={posts} />;
   } else if (path.startsWith('/blog/')) {
-    // Show single post
     const slug = path.split('/blog/')[1];
     const postData = getPostData(slug);
     pageContent = <BlogPost postData={postData} />;
+
+  // --- JOBS ROUTES ---
+  } else if (path === '/jobs') {
+    const jobs = getSortedJobData();
+    pageContent = <JobsList jobs={jobs} />;
+  } else if (path.startsWith('/jobs/')) {
+    const slug = path.split('/jobs/')[1];
+    const jobData = getJobData(slug);
+    pageContent = <JobPost jobData={jobData} />;
+
+  // --- DEFAULT HOMEPAGE ---
   } else {
-    // Default home page
     pageContent = (
       <>
         <HeroSection onEnrollClick={handleEnrollClick} />
@@ -60,7 +72,11 @@ function App() {
 
   return (
     <div className="min-h-screen bg-slate-900 text-white overflow-x-hidden">
-      <Header logoUrl={logoUrl} showBlogLink={path !== '/blog' && !path.startsWith('/blog/')} />
+      <Header 
+        logoUrl={logoUrl} 
+        showBlogLink={path !== '/blog' && !path.startsWith('/blog/')}
+        showJobsLink={path !== '/jobs' && !path.startsWith('/jobs/')}
+      />
       {pageContent}
       <EmailCaptureModal 
         isOpen={isModalOpen} 
