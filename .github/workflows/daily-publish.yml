@@ -3,7 +3,7 @@ name: Publish 5 Blog Posts Daily
 on:
   schedule:
     - cron: '0 8 * * *'  # Runs at 8 AM UTC every day
-  workflow_dispatch:     # Allows manual run from GitHub UI
+  workflow_dispatch:     # Manual trigger available
 
 permissions:
   contents: write
@@ -35,20 +35,12 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git commit -m "Published 5 new blog posts"
+          git diff-index --quiet HEAD || git commit -m "Published 5 new blog posts"
           git push origin main
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 20
-
-      - name: Install npm dependencies
-        run: |
-          npm install
 
       - name: Build site
         run: |
+          npm install
           npm run build
 
       - name: Deploy via GitHub Pages

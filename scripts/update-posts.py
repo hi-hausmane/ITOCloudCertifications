@@ -1,34 +1,36 @@
 import os
 import glob
+import frontmatter
+import json
+import fs.path
+import datetime
+
+# Folder containing your blog posts
+POSTS_DIR = "blogposts"
+OUTPUT_JSON = "src/data/blog-posts.json"
 
 def publish_next_5_posts():
-    POSTS_DIR = "blogposts"
     post_files = sorted(glob.glob(os.path.join(POSTS_DIR, "*.md")))
 
     published_count = 0
 
     for filepath in post_files:
         with open(filepath, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
+            try:
+                post = frontmatter.load(f)
+            except Exception as e:
+                print(f"⚠️ Error parsing {filepath}: {e}")
+                continue
 
-        # Check if already published
-        has_published = any(line.startswith("published: true") for line in lines)
-        if has_published:
+        if post.get('published', False):
             continue
 
-        # Find and update `published: false` or add if missing
-        published_line_index = next((i for i, line in enumerate(lines) if line.startswith("published:")), None)
+        # Set published to True
+        post['published'] = True
 
-        if published_line_index is not None:
-            lines[published_line_index] = "published: true\n"
-        else:
-            # Insert after frontmatter start if no `published` field exists
-            insert_index = lines.index("---\n", 1) + 1
-            lines.insert(insert_index, "published: false\n")
-
-        # Update and save
+        # Write updated file
         with open(filepath, 'w', encoding='utf-8') as f:
-            f.writelines(lines)
+            f.write(frontmatter.dumps(post))
 
         print(f"✅ Published {os.path.basename(filepath)}")
         published_count += 1
@@ -37,7 +39,31 @@ def publish_next_5_posts():
             break
 
     if published_count == 0:
-        print("⚠️ No more unpublished posts found.")
+        print("📌 No more unpublished blog posts found.")
+
+    # Regenerate blog-posts.json
+    all_posts = []
+    for md_file in glob.glob(os.path.join(POSTS_DIR, "*.md")):
+        with open(md_file, 'r', encoding='utf-8') as f:
+            post = frontmatter.load(f)
+
+        if post.get('published', False):
+            all_posts.append({
+                'title': post.get('title', ''),
+                'slug': os.path.basename(md_file).replace('.md', ''),
+                'date': post.get('date', datetime.datetime.now().strftime("%Y-%m-%d")),
+                'description': post.get('description', '')
+            })
+
+    # Sort by date
+    all_posts.sort(key=lambda x: x['date'], reverse=True)
+
+    # Save JSON
+    with open(OUTPUT_JSON, 'w', encoding='utf-8') as f:
+        json.dump(all_posts, f, ensure_ascii=False, indent=2)
+
+    print(f"📝 Generated {len(all_posts)} published blog posts")
+
 
 if __name__ == "__main__":
     publish_next_5_posts()
