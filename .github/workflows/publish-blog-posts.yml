@@ -1,4 +1,4 @@
-name: Publish 5 Blog Posts Daily
+name: Publish Daily Blog Posts
 
 on:
   schedule:
