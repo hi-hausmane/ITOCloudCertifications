@@ -1,9 +1,9 @@
-name: Publish 5 New Blog Posts Daily
+name: Publish 5 Cloud Finance Jobs Daily
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Runs at 8 AM UTC every day
-  workflow_dispatch:     # Manual trigger available
+    - cron: '0 9 * * *'  # Runs at 9 AM UTC
+  workflow_dispatch:     # Allows manual run from GitHub UI
 
 jobs:
   publish:
@@ -21,7 +21,7 @@ jobs:
         run: |
           pip install python-frontmatter
 
-      - name: Publish next 5 blog posts
+      - name: Publish next 5 job posts
         run: |
           python scripts/publish_next_blog.py
 
@@ -30,13 +30,13 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add .
-          git diff-index --quiet HEAD || git commit -m "Published 5 new blog posts"
+          git diff-index --quiet HEAD || git commit -m "Published 5 new blogposts"
           git push origin main
 
       - name: Build site
         run: |
           npm install
-          node --experimental-specifier-resolution=node scripts/generate-blog-data.mjs
+          node --experimental-specifier-resolution=node scripts/generate-job-data.mjs
           npm run build
 
       - name: Deploy via GitHub Pages
