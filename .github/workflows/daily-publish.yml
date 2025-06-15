@@ -34,8 +34,20 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          
+          # Check status
+          git fetch origin
+          
+          # Stash any local changes if needed
+          git reset
+          git checkout main
+          git pull origin main
+
+          # Add and commit changes
           git add .
           git diff-index --quiet HEAD || git commit -m "Published 5 new blog posts"
+
+          # Push changes
           git push origin main
 
       - name: Build site
