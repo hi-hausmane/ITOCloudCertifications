@@ -2,61 +2,37 @@ name: Publish 5 Blog Posts Daily
 
 on:
   schedule:
-    - cron: '0 8 * * *'  # Runs at 8 AM UTC every day
-  workflow_dispatch:     # Manual trigger available
-
-permissions:
-  contents: write
+    - cron: '0 0 * * *' # Runs daily at midnight UTC
 
 jobs:
-  publish:
-    name: Update & Publish New Blog Posts
+  publish-blogs:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout repo
+      - name: Checkout Repository
         uses: actions/checkout@v3
 
-      - name: Setup Python
+      - name: Set Up Python
         uses: actions/setup-python@v4
         with:
-          python-version: "3.10"
+          python-version: '3.x'
 
-      - name: Install Python dependencies
+      - name: Install Dependencies
         run: |
-          pip install python-frontmatter
+          pip install PyYAML
 
-      - name: Publish next 5 blog posts
+      - name: Run Publishing Script
         run: |
-          python scripts/update-posts.py
+          python publish_blog_posts.py
 
-      - name: Commit and push changes
+      - name: Commit Changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          
-          # Check status
-          git fetch origin
-          
-          # Stash any local changes if needed
-          git reset
-          git checkout main
-          git pull origin main
-
-          # Add and commit changes
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
           git add .
-          git diff-index --quiet HEAD || git commit -m "Published 5 new blog posts"
-
-          # Push changes
+          git diff-index --quiet HEAD || git commit -m "Publish 5 blog posts"
           git push origin main
 
-      - name: Build site
-        run: |
-          npm install
-          npm run build
-
-      - name: Deploy via GitHub Pages
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Build and Deploy with Netlify
+        uses: netlify/actions/deploy@v2
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
+          publish_dir: "./dist" # or public/, depending on your setup
