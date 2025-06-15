@@ -2,7 +2,7 @@
 title: "AWS Certification for Java Developers"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for Java Developers"
-published: false
+published: true
 category: "Success Story"
 keywords: ["aws, certification, for, java, developers"]
 ---
