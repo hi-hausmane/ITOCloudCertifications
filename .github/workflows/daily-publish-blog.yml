@@ -1,5 +1,4 @@
-name: Publish 5 Cloud Finance Jobs Daily
-
+name: Publish 5 blogposts
 on:
   schedule:
     - cron: '0 9 * * *'  # Runs at 9 AM UTC
