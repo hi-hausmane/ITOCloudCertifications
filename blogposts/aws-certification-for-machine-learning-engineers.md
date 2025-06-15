@@ -2,7 +2,7 @@
 title: "AWS Certification for Machine Learning Engineers"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for Machine Learning Engineers"
-published: false
+published: true
 category: "AWS Services"
 keywords: ["aws, certification, for, machine, learning, engineers"]
 ---

@@ -2,7 +2,7 @@
 title: "AWS Certification for Game Developers"
 date: "2025-06-12"
 description: "A detailed guide on AWS Certification for Game Developers"
-published: false
+published: true
 category: "Cloud Tips"
 keywords: ["aws, certification, for, game, developers"]
 ---
