@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for QA/Testers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for QA/Testers"
-published: false
-category: "Study Tips"
-keywords: ["aws, certification, for, qa/testers"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for QA/Testers
+keywords:
+- aws, certification, for, qa/testers
+published: true
+title: AWS Certification for QA/Testers
 ---
 
 # AWS Certification for QA/Testers

@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Managers and Product Owners"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Managers and Product Owners"
-published: false
-category: "Cloud Tips"
-keywords: ["aws, certification, for, managers, and, product, owners"]
+category: Cloud Tips
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Managers and Product Owners
+keywords:
+- aws, certification, for, managers, and, product, owners
+published: true
+title: AWS Certification for Managers and Product Owners
 ---
 
 # AWS Certification for Managers and Product Owners

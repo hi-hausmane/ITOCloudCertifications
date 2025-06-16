@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Non-Tech Professionals"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Non-Tech Professionals"
-published: false
-category: "Motivation"
-keywords: ["aws, certification, for, non-tech, professionals"]
+category: Motivation
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Non-Tech Professionals
+keywords:
+- aws, certification, for, non-tech, professionals
+published: true
+title: AWS Certification for Non-Tech Professionals
 ---
 
 # AWS Certification for Non-Tech Professionals

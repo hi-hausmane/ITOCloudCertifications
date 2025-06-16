@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Python Developers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Python Developers"
-published: false
-category: "Study Tips"
-keywords: ["aws, certification, for, python, developers"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Python Developers
+keywords:
+- aws, certification, for, python, developers
+published: true
+title: AWS Certification for Python Developers
 ---
 
 # AWS Certification for Python Developers

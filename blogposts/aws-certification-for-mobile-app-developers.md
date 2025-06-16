@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Mobile App Developers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Mobile App Developers"
-published: false
-category: "Success Story"
-keywords: ["aws, certification, for, mobile, app, developers"]
+category: Success Story
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Mobile App Developers
+keywords:
+- aws, certification, for, mobile, app, developers
+published: true
+title: AWS Certification for Mobile App Developers
 ---
 
 # AWS Certification for Mobile App Developers

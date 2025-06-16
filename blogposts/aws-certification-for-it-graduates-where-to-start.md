@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for IT Graduates: Where to Start"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for IT Graduates: Where to Start"
-published: false
-category: "Certification Guide"
-keywords: ["aws, certification, for, it, graduates:, where, to, start"]
+category: Certification Guide
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certification for IT Graduates: Where to Start'
+keywords:
+- aws, certification, for, it, graduates:, where, to, start
+published: true
+title: 'AWS Certification for IT Graduates: Where to Start'
 ---
 
 # AWS Certification for IT Graduates: Where to Start

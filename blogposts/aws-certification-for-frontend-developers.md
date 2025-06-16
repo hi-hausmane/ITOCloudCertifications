@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Frontend Developers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Frontend Developers"
-published: false
-category: "Motivation"
-keywords: ["aws, certification, for, frontend, developers"]
+category: Motivation
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Frontend Developers
+keywords:
+- aws, certification, for, frontend, developers
+published: true
+title: AWS Certification for Frontend Developers
 ---
 
 # AWS Certification for Frontend Developers

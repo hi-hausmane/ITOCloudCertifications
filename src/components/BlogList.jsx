@@ -1,5 +1,6 @@
 import React from 'react';
 import { getSortedPostsData } from '@/utils/blogReader';
+import blogPosts from '@/data/blog-posts.json';
 
 export default function BlogList() {
   const posts = getSortedPostsData();

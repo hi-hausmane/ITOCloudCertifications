@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for QA Automation Engineers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for QA Automation Engineers"
-published: false
-category: "Study Tips"
-keywords: ["aws, certification, for, qa, automation, engineers"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for QA Automation Engineers
+keywords:
+- aws, certification, for, qa, automation, engineers
+published: true
+title: AWS Certification for QA Automation Engineers
 ---
 
 # AWS Certification for QA Automation Engineers

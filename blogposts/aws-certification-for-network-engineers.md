@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Network Engineers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Network Engineers"
-published: false
-category: "Success Story"
-keywords: ["aws, certification, for, network, engineers"]
+category: Success Story
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Network Engineers
+keywords:
+- aws, certification, for, network, engineers
+published: true
+title: AWS Certification for Network Engineers
 ---
 
 # AWS Certification for Network Engineers

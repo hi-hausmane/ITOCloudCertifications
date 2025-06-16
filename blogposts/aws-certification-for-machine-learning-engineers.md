@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Machine Learning Engineers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Machine Learning Engineers"
-published: false
-category: "AWS Services"
-keywords: ["aws, certification, for, machine, learning, engineers"]
+category: AWS Services
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Machine Learning Engineers
+keywords:
+- aws, certification, for, machine, learning, engineers
+published: true
+title: AWS Certification for Machine Learning Engineers
 ---
 
 # AWS Certification for Machine Learning Engineers
