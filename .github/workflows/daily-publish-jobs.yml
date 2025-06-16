@@ -1,0 +1,52 @@
+name: Publish 5 Cloud Jobs Daily
+
+on:
+  schedule:
+    - cron: '0 9 * * *'  # Runs at 9 AM UTC (1 hour after blog)
+  workflow_dispatch:     # Manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - name: Install Python dependencies
+        run: |
+          pip install python-frontmatter
+
+      - name: Publish next 5 job listings
+        run: |
+          python scripts/publish_next_job.py
+
+      - name: Build job-posts.json
+        run: |
+          node --experimental-specifier-resolution=node scripts/generate-job-data.mjs
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff-index --quiet HEAD || git commit -m "Published 5 new cloud jobs in Morocco"
+          git push origin main
+
+      - name: Build site
+        run: |
+          npm install
+          npm run build
+
+      - name: Deploy via GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: dist
