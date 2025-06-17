@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for SysAdmins: Level Up Your Skills"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for SysAdmins: Level Up Your Skills"
-published: false
-category: "Certification Guide"
-keywords: ["aws, certification, for, sysadmins:, level, up, your, skills"]
+category: Certification Guide
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certification for SysAdmins: Level Up Your Skills'
+keywords:
+- aws, certification, for, sysadmins:, level, up, your, skills
+published: true
+title: 'AWS Certification for SysAdmins: Level Up Your Skills'
 ---
 
 # AWS Certification for SysAdmins: Level Up Your Skills

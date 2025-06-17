@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification Renewal: What You Need to Know"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification Renewal: What You Need to Know"
-published: false
-category: "Certification Guide"
-keywords: ["aws, certification, renewal:, what, you, need, to, know"]
+category: Certification Guide
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certification Renewal: What You Need to Know'
+keywords:
+- aws, certification, renewal:, what, you, need, to, know
+published: true
+title: 'AWS Certification Renewal: What You Need to Know'
 ---
 
 # AWS Certification Renewal: What You Need to Know
