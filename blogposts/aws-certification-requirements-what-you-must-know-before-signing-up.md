@@ -1,10 +1,12 @@
 ---
-title: "AWS Certification Requirements: What You Must Know Before Signing Up"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification Requirements: What You Must Know Before Signing Up"
-published: false
-category: "Certification Guide"
-keywords: ["aws, certification, requirements:, what, you, must, know, before, signing, up"]
+category: Certification Guide
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certification Requirements: What You Must Know
+  Before Signing Up'
+keywords:
+- aws, certification, requirements:, what, you, must, know, before, signing, up
+published: true
+title: 'AWS Certification Requirements: What You Must Know Before Signing Up'
 ---
 
 # AWS Certification Requirements: What You Must Know Before Signing Up

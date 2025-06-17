@@ -1,10 +1,12 @@
 ---
-title: "AWS Certification vs Azure Certification: Which Is Easier?"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification vs Azure Certification: Which Is Easier?"
-published: false
-category: "Certification Guide"
-keywords: ["aws, certification, vs, azure, certification:, which, is, easier?"]
+category: Certification Guide
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certification vs Azure Certification: Which
+  Is Easier?'
+keywords:
+- aws, certification, vs, azure, certification:, which, is, easier?
+published: true
+title: 'AWS Certification vs Azure Certification: Which Is Easier?'
 ---
 
 # AWS Certification vs Azure Certification: Which Is Easier?
