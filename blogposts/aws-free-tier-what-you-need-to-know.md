@@ -1,10 +1,11 @@
 ---
-title: "AWS Free Tier: What You Need to Know"
-date: "2025-06-12"
-description: "A detailed guide on AWS Free Tier: What You Need to Know"
-published: false
-category: "Cloud Tips"
-keywords: ["aws, free, tier:, what, you, need, to, know"]
+category: Cloud Tips
+date: '2025-06-12'
+description: 'A detailed guide on AWS Free Tier: What You Need to Know'
+keywords:
+- aws, free, tier:, what, you, need, to, know
+published: true
+title: 'AWS Free Tier: What You Need to Know'
 ---
 
 # AWS Free Tier: What You Need to Know

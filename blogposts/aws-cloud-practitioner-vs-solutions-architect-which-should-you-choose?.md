@@ -1,10 +1,12 @@
 ---
-title: "AWS Cloud Practitioner vs Solutions Architect: Which Should You Choose?"
-date: "2025-06-12"
-description: "A detailed guide on AWS Cloud Practitioner vs Solutions Architect: Which Should You Choose?"
-published: false
-category: "Certification Guide"
-keywords: ["aws, cloud, practitioner, vs, solutions, architect:, which, should, you, choose?"]
+category: Certification Guide
+date: '2025-06-12'
+description: 'A detailed guide on AWS Cloud Practitioner vs Solutions Architect: Which
+  Should You Choose?'
+keywords:
+- aws, cloud, practitioner, vs, solutions, architect:, which, should, you, choose?
+published: true
+title: 'AWS Cloud Practitioner vs Solutions Architect: Which Should You Choose?'
 ---
 
 # AWS Cloud Practitioner vs Solutions Architect: Which Should You Choose?
