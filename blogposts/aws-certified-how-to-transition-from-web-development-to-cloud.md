@@ -1,10 +1,12 @@
 ---
-title: "AWS Certified: How to Transition from Web Development to Cloud"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certified: How to Transition from Web Development to Cloud"
-published: false
-category: "Success Story"
-keywords: ["aws, certified:, how, to, transition, from, web, development, to, cloud"]
+category: Success Story
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certified: How to Transition from Web Development
+  to Cloud'
+keywords:
+- aws, certified:, how, to, transition, from, web, development, to, cloud
+published: true
+title: 'AWS Certified: How to Transition from Web Development to Cloud'
 ---
 
 # AWS Certified: How to Transition from Web Development to Cloud

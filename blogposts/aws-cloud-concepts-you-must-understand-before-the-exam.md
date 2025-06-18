@@ -1,10 +1,12 @@
 ---
-title: "AWS Cloud Concepts You Must Understand Before the Exam"
-date: "2025-06-12"
-description: "A detailed guide on AWS Cloud Concepts You Must Understand Before the Exam"
-published: false
-category: "Cloud Concepts"
-keywords: ["aws, cloud, concepts, you, must, understand, before, the, exam"]
+category: Cloud Concepts
+date: '2025-06-12'
+description: A detailed guide on AWS Cloud Concepts You Must Understand Before the
+  Exam
+keywords:
+- aws, cloud, concepts, you, must, understand, before, the, exam
+published: true
+title: AWS Cloud Concepts You Must Understand Before the Exam
 ---
 
 # AWS Cloud Concepts You Must Understand Before the Exam

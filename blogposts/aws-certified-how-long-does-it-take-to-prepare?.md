@@ -1,10 +1,11 @@
 ---
-title: "AWS Certified: How Long Does It Take to Prepare?"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certified: How Long Does It Take to Prepare?"
-published: false
-category: "Study Tips"
-keywords: ["aws, certified:, how, long, does, it, take, to, prepare?"]
+category: Study Tips
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certified: How Long Does It Take to Prepare?'
+keywords:
+- aws, certified:, how, long, does, it, take, to, prepare?
+published: true
+title: 'AWS Certified: How Long Does It Take to Prepare?'
 ---
 
 # AWS Certified: How Long Does It Take to Prepare?
