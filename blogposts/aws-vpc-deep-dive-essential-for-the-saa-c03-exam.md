@@ -1,10 +1,11 @@
 ---
-title: "AWS VPC Deep Dive: Essential for the SAA-C03 Exam"
-date: "2025-06-12"
-description: "A detailed guide on AWS VPC Deep Dive: Essential for the SAA-C03 Exam"
-published: false
-category: "AWS Services"
-keywords: ["aws, vpc, deep, dive:, essential, for, the, saa-c03, exam"]
+category: AWS Services
+date: '2025-06-12'
+description: 'A detailed guide on AWS VPC Deep Dive: Essential for the SAA-C03 Exam'
+keywords:
+- aws, vpc, deep, dive:, essential, for, the, saa-c03, exam
+published: true
+title: 'AWS VPC Deep Dive: Essential for the SAA-C03 Exam'
 ---
 
 # AWS VPC Deep Dive: Essential for the SAA-C03 Exam

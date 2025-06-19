@@ -1,10 +1,11 @@
 ---
-title: "AWS Training Path: The Ultimate Roadmap for Beginners"
-date: "2025-06-12"
-description: "A detailed guide on AWS Training Path: The Ultimate Roadmap for Beginners"
-published: false
-category: "Certification Guide"
-keywords: ["aws, training, path:, the, ultimate, roadmap, for, beginners"]
+category: Certification Guide
+date: '2025-06-12'
+description: 'A detailed guide on AWS Training Path: The Ultimate Roadmap for Beginners'
+keywords:
+- aws, training, path:, the, ultimate, roadmap, for, beginners
+published: true
+title: 'AWS Training Path: The Ultimate Roadmap for Beginners'
 ---
 
 # AWS Training Path: The Ultimate Roadmap for Beginners
