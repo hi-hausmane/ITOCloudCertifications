@@ -1,10 +1,11 @@
 ---
-title: "AWS Study Plan: 30 Days to SAA-C03 Success"
-date: "2025-06-12"
-description: "A detailed guide on AWS Study Plan: 30 Days to SAA-C03 Success"
-published: false
-category: "Study Plan"
-keywords: ["aws, study, plan:, 30, days, to, saa-c03, success"]
+category: Study Plan
+date: '2025-06-12'
+description: 'A detailed guide on AWS Study Plan: 30 Days to SAA-C03 Success'
+keywords:
+- aws, study, plan:, 30, days, to, saa-c03, success
+published: true
+title: 'AWS Study Plan: 30 Days to SAA-C03 Success'
 ---
 
 # AWS Study Plan: 30 Days to SAA-C03 Success

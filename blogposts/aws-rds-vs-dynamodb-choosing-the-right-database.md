@@ -1,10 +1,11 @@
 ---
-title: "AWS RDS vs DynamoDB: Choosing the Right Database"
-date: "2025-06-12"
-description: "A detailed guide on AWS RDS vs DynamoDB: Choosing the Right Database"
-published: false
-category: "AWS Services"
-keywords: ["aws, rds, vs, dynamodb:, choosing, the, right, database"]
+category: AWS Services
+date: '2025-06-12'
+description: 'A detailed guide on AWS RDS vs DynamoDB: Choosing the Right Database'
+keywords:
+- aws, rds, vs, dynamodb:, choosing, the, right, database
+published: true
+title: 'AWS RDS vs DynamoDB: Choosing the Right Database'
 ---
 
 # AWS RDS vs DynamoDB: Choosing the Right Database

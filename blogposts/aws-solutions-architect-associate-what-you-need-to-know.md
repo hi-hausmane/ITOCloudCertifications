@@ -1,10 +1,12 @@
 ---
-title: "AWS Solutions Architect Associate: What You Need to Know"
-date: "2025-06-12"
-description: "A detailed guide on AWS Solutions Architect Associate: What You Need to Know"
-published: false
-category: "Certification Guide"
-keywords: ["aws, solutions, architect, associate:, what, you, need, to, know"]
+category: Certification Guide
+date: '2025-06-12'
+description: 'A detailed guide on AWS Solutions Architect Associate: What You Need
+  to Know'
+keywords:
+- aws, solutions, architect, associate:, what, you, need, to, know
+published: true
+title: 'AWS Solutions Architect Associate: What You Need to Know'
 ---
 
 # AWS Solutions Architect Associate: What You Need to Know
