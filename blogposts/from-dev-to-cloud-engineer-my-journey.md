@@ -1,10 +1,11 @@
 ---
-title: "From Dev to Cloud Engineer: My Journey"
-date: "2025-06-12"
-description: "A detailed guide on From Dev to Cloud Engineer: My Journey"
-published: false
-category: "Success Story"
-keywords: ["from, dev, to, cloud, engineer:, my, journey"]
+category: Success Story
+date: '2025-06-12'
+description: 'A detailed guide on From Dev to Cloud Engineer: My Journey'
+keywords:
+- from, dev, to, cloud, engineer:, my, journey
+published: true
+title: 'From Dev to Cloud Engineer: My Journey'
 ---
 
 # From Dev to Cloud Engineer: My Journey

@@ -1,10 +1,11 @@
 ---
-title: "How AWS Certification Can Boost Your Salary in 2024"
-date: "2025-06-12"
-description: "A detailed guide on How AWS Certification Can Boost Your Salary in 2024"
-published: false
-category: "Salary & Career"
-keywords: ["how, aws, certification, can, boost, your, salary, in, 2024"]
+category: Salary & Career
+date: '2025-06-12'
+description: A detailed guide on How AWS Certification Can Boost Your Salary in 2024
+keywords:
+- how, aws, certification, can, boost, your, salary, in, 2024
+published: true
+title: How AWS Certification Can Boost Your Salary in 2024
 ---
 
 # How AWS Certification Can Boost Your Salary in 2024
