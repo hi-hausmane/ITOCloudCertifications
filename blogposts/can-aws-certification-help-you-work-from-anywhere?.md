@@ -1,10 +1,11 @@
 ---
-title: "Can AWS Certification Help You Work From Anywhere?"
-date: "2025-06-12"
-description: "A detailed guide on Can AWS Certification Help You Work From Anywhere?"
-published: false
-category: "Remote Work"
-keywords: ["can, aws, certification, help, you, work, from, anywhere?"]
+category: Remote Work
+date: '2025-06-12'
+description: A detailed guide on Can AWS Certification Help You Work From Anywhere?
+keywords:
+- can, aws, certification, help, you, work, from, anywhere?
+published: true
+title: Can AWS Certification Help You Work From Anywhere?
 ---
 
 # Can AWS Certification Help You Work From Anywhere?

@@ -1,10 +1,11 @@
 ---
-title: "Best Resources to Study for the AWS SAA-C03 Exam"
-date: "2025-06-12"
-description: "A detailed guide on Best Resources to Study for the AWS SAA-C03 Exam"
-published: false
-category: "Study Resources"
-keywords: ["best, resources, to, study, for, the, aws, saa-c03, exam"]
+category: Study Resources
+date: '2025-06-12'
+description: A detailed guide on Best Resources to Study for the AWS SAA-C03 Exam
+keywords:
+- best, resources, to, study, for, the, aws, saa-c03, exam
+published: true
+title: Best Resources to Study for the AWS SAA-C03 Exam
 ---
 
 # Best Resources to Study for the AWS SAA-C03 Exam
