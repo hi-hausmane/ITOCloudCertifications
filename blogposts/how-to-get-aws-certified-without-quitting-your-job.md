@@ -1,10 +1,11 @@
 ---
-title: "How to Get AWS Certified Without Quitting Your Job"
-date: "2025-06-12"
-description: "A detailed guide on How to Get AWS Certified Without Quitting Your Job"
-published: false
-category: "Study Tips"
-keywords: ["how, to, get, aws, certified, without, quitting, your, job"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Get AWS Certified Without Quitting Your Job
+keywords:
+- how, to, get, aws, certified, without, quitting, your, job
+published: true
+title: How to Get AWS Certified Without Quitting Your Job
 ---
 
 # How to Get AWS Certified Without Quitting Your Job

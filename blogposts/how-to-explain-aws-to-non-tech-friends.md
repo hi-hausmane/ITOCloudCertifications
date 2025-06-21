@@ -1,10 +1,11 @@
 ---
-title: "How to Explain AWS to Non-Tech Friends"
-date: "2025-06-12"
-description: "A detailed guide on How to Explain AWS to Non-Tech Friends"
-published: false
-category: "Motivation"
-keywords: ["how, to, explain, aws, to, non-tech, friends"]
+category: Motivation
+date: '2025-06-12'
+description: A detailed guide on How to Explain AWS to Non-Tech Friends
+keywords:
+- how, to, explain, aws, to, non-tech, friends
+published: true
+title: How to Explain AWS to Non-Tech Friends
 ---
 
 # How to Explain AWS to Non-Tech Friends

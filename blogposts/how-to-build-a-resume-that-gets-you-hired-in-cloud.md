@@ -1,10 +1,11 @@
 ---
-title: "How to Build a Resume That Gets You Hired in Cloud"
-date: "2025-06-12"
-description: "A detailed guide on How to Build a Resume That Gets You Hired in Cloud"
-published: false
-category: "Salary & Career"
-keywords: ["how, to, build, a, resume, that, gets, you, hired, in, cloud"]
+category: Salary & Career
+date: '2025-06-12'
+description: A detailed guide on How to Build a Resume That Gets You Hired in Cloud
+keywords:
+- how, to, build, a, resume, that, gets, you, hired, in, cloud
+published: true
+title: How to Build a Resume That Gets You Hired in Cloud
 ---
 
 # How to Build a Resume That Gets You Hired in Cloud
