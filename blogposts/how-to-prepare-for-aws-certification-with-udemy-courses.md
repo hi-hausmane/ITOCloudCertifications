@@ -1,10 +1,11 @@
 ---
-title: "How to Prepare for AWS Certification with Udemy Courses"
-date: "2025-06-12"
-description: "A detailed guide on How to Prepare for AWS Certification with Udemy Courses"
-published: false
-category: "Study Tips"
-keywords: ["how, to, prepare, for, aws, certification, with, udemy, courses"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Prepare for AWS Certification with Udemy Courses
+keywords:
+- how, to, prepare, for, aws, certification, with, udemy, courses
+published: true
+title: How to Prepare for AWS Certification with Udemy Courses
 ---
 
 # How to Prepare for AWS Certification with Udemy Courses

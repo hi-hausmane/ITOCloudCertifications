@@ -1,10 +1,12 @@
 ---
-title: "How to Pass the AWS Certified Developer – Associate Exam"
-date: "2025-06-12"
-description: "A detailed guide on How to Pass the AWS Certified Developer – Associate Exam"
-published: false
-category: "Exam Experience"
-keywords: ["how, to, pass, the, aws, certified, developer, –, associate, exam"]
+category: Exam Experience
+date: '2025-06-12'
+description: A detailed guide on How to Pass the AWS Certified Developer – Associate
+  Exam
+keywords:
+- how, to, pass, the, aws, certified, developer, –, associate, exam
+published: true
+title: How to Pass the AWS Certified Developer – Associate Exam
 ---
 
 # How to Pass the AWS Certified Developer – Associate Exam

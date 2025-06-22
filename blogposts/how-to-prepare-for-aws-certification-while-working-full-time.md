@@ -1,10 +1,12 @@
 ---
-title: "How to Prepare for AWS Certification While Working Full-Time"
-date: "2025-06-12"
-description: "A detailed guide on How to Prepare for AWS Certification While Working Full-Time"
-published: false
-category: "Study Tips"
-keywords: ["how, to, prepare, for, aws, certification, while, working, full-time"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Prepare for AWS Certification While Working
+  Full-Time
+keywords:
+- how, to, prepare, for, aws, certification, while, working, full-time
+published: true
+title: How to Prepare for AWS Certification While Working Full-Time
 ---
 
 # How to Prepare for AWS Certification While Working Full-Time
