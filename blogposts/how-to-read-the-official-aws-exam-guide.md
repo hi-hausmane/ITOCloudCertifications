@@ -1,10 +1,11 @@
 ---
-title: "How to Read the Official AWS Exam Guide"
-date: "2025-06-12"
-description: "A detailed guide on How to Read the Official AWS Exam Guide"
-published: false
-category: "Certification Guide"
-keywords: ["how, to, read, the, official, aws, exam, guide"]
+category: Certification Guide
+date: '2025-06-12'
+description: A detailed guide on How to Read the Official AWS Exam Guide
+keywords:
+- how, to, read, the, official, aws, exam, guide
+published: true
+title: How to Read the Official AWS Exam Guide
 ---
 
 # How to Read the Official AWS Exam Guide

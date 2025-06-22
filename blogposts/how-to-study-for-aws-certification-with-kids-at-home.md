@@ -1,10 +1,11 @@
 ---
-title: "How to Study for AWS Certification with Kids at Home"
-date: "2025-06-12"
-description: "A detailed guide on How to Study for AWS Certification with Kids at Home"
-published: false
-category: "Study Tips"
-keywords: ["how, to, study, for, aws, certification, with, kids, at, home"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Study for AWS Certification with Kids at Home
+keywords:
+- how, to, study, for, aws, certification, with, kids, at, home
+published: true
+title: How to Study for AWS Certification with Kids at Home
 ---
 
 # How to Study for AWS Certification with Kids at Home
