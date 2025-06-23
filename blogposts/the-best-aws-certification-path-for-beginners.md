@@ -1,10 +1,11 @@
 ---
-title: "The Best AWS Certification Path for Beginners"
-date: "2025-06-12"
-description: "A detailed guide on The Best AWS Certification Path for Beginners"
-published: false
-category: "Beginner Guide"
-keywords: ["the, best, aws, certification, path, for, beginners"]
+category: Beginner Guide
+date: '2025-06-12'
+description: A detailed guide on The Best AWS Certification Path for Beginners
+keywords:
+- the, best, aws, certification, path, for, beginners
+published: true
+title: The Best AWS Certification Path for Beginners
 ---
 
 # The Best AWS Certification Path for Beginners

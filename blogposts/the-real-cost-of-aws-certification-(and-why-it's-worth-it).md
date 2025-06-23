@@ -1,10 +1,12 @@
 ---
-title: "The Real Cost of AWS Certification (And Why It's Worth It)"
-date: "2025-06-12"
-description: "A detailed guide on The Real Cost of AWS Certification (And Why It's Worth It)"
-published: false
-category: "Cost & Value"
-keywords: ["the, real, cost, of, aws, certification, (and, why, it's, worth, it)"]
+category: Cost & Value
+date: '2025-06-12'
+description: A detailed guide on The Real Cost of AWS Certification (And Why It's
+  Worth It)
+keywords:
+- the, real, cost, of, aws, certification, (and, why, it's, worth, it)
+published: true
+title: The Real Cost of AWS Certification (And Why It's Worth It)
 ---
 
 # The Real Cost of AWS Certification (And Why It's Worth It)

@@ -1,10 +1,11 @@
 ---
-title: "The Real Salary of an AWS Certified Developer"
-date: "2025-06-12"
-description: "A detailed guide on The Real Salary of an AWS Certified Developer"
-published: false
-category: "Salary & Career"
-keywords: ["the, real, salary, of, an, aws, certified, developer"]
+category: Salary & Career
+date: '2025-06-12'
+description: A detailed guide on The Real Salary of an AWS Certified Developer
+keywords:
+- the, real, salary, of, an, aws, certified, developer
+published: true
+title: The Real Salary of an AWS Certified Developer
 ---
 
 # The Real Salary of an AWS Certified Developer
