@@ -1,10 +1,12 @@
 ---
-title: "Is AWS Certification Hard? Everything You Need to Know"
-date: "2025-06-12"
-description: "A detailed guide on Is AWS Certification Hard? Everything You Need to Know"
-published: false
-category: "Exam Experience"
-keywords: ["is, aws, certification, hard?, everything, you, need, to, know"]
+category: Exam Experience
+date: '2025-06-12'
+description: A detailed guide on Is AWS Certification Hard? Everything You Need to
+  Know
+keywords:
+- is, aws, certification, hard?, everything, you, need, to, know
+published: true
+title: Is AWS Certification Hard? Everything You Need to Know
 ---
 
 # Is AWS Certification Hard? Everything You Need to Know

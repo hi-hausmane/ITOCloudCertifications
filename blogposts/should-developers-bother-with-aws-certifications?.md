@@ -1,10 +1,11 @@
 ---
-title: "Should Developers Bother with AWS Certifications?"
-date: "2025-06-12"
-description: "A detailed guide on Should Developers Bother with AWS Certifications?"
-published: false
-category: "Developer Focus"
-keywords: ["should, developers, bother, with, aws, certifications?"]
+category: Developer Focus
+date: '2025-06-12'
+description: A detailed guide on Should Developers Bother with AWS Certifications?
+keywords:
+- should, developers, bother, with, aws, certifications?
+published: true
+title: Should Developers Bother with AWS Certifications?
 ---
 
 # Should Developers Bother with AWS Certifications?
