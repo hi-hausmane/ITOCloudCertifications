@@ -1,10 +1,11 @@
 ---
-title: "Why AWS Certified Professionals Are in High Demand"
-date: "2025-06-12"
-description: "A detailed guide on Why AWS Certified Professionals Are in High Demand"
-published: false
-category: "Career"
-keywords: ["why, aws, certified, professionals, are, in, high, demand"]
+category: Career
+date: '2025-06-12'
+description: A detailed guide on Why AWS Certified Professionals Are in High Demand
+keywords:
+- why, aws, certified, professionals, are, in, high, demand
+published: true
+title: Why AWS Certified Professionals Are in High Demand
 ---
 
 # Why AWS Certified Professionals Are in High Demand

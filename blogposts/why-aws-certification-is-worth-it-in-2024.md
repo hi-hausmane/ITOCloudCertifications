@@ -1,10 +1,11 @@
 ---
-title: "Why AWS Certification Is Worth It in 2024"
-date: "2025-06-12"
-description: "A detailed guide on Why AWS Certification Is Worth It in 2024"
-published: false
-category: "Motivation"
-keywords: ["why, aws, certification, is, worth, it, in, 2024"]
+category: Motivation
+date: '2025-06-12'
+description: A detailed guide on Why AWS Certification Is Worth It in 2024
+keywords:
+- why, aws, certification, is, worth, it, in, 2024
+published: true
+title: Why AWS Certification Is Worth It in 2024
 ---
 
 # Why AWS Certification Is Worth It in 2024

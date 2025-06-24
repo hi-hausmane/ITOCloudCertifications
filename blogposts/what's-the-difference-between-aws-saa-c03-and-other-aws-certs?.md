@@ -1,10 +1,12 @@
 ---
-title: "What's the Difference Between AWS SAA-C03 and Other AWS Certs?"
-date: "2025-06-12"
-description: "A detailed guide on What's the Difference Between AWS SAA-C03 and Other AWS Certs?"
-published: false
-category: "Comparison"
-keywords: ["what's, the, difference, between, aws, saa-c03, and, other, aws, certs?"]
+category: Comparison
+date: '2025-06-12'
+description: A detailed guide on What's the Difference Between AWS SAA-C03 and Other
+  AWS Certs?
+keywords:
+- what's, the, difference, between, aws, saa-c03, and, other, aws, certs?
+published: true
+title: What's the Difference Between AWS SAA-C03 and Other AWS Certs?
 ---
 
 # What's the Difference Between AWS SAA-C03 and Other AWS Certs?

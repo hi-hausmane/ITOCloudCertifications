@@ -1,10 +1,11 @@
 ---
-title: "Top AWS Services You Must Know for the SAA-C03 Exam"
-date: "2025-06-12"
-description: "A detailed guide on Top AWS Services You Must Know for the SAA-C03 Exam"
-published: false
-category: "Tech Prep"
-keywords: ["top, aws, services, you, must, know, for, the, saa-c03, exam"]
+category: Tech Prep
+date: '2025-06-12'
+description: A detailed guide on Top AWS Services You Must Know for the SAA-C03 Exam
+keywords:
+- top, aws, services, you, must, know, for, the, saa-c03, exam
+published: true
+title: Top AWS Services You Must Know for the SAA-C03 Exam
 ---
 
 # Top AWS Services You Must Know for the SAA-C03 Exam
