@@ -1,10 +1,11 @@
 ---
-title: "Top 5 Reasons to Get AWS Certified This Year"
-date: "2025-06-12"
-description: "A detailed guide on Top 5 Reasons to Get AWS Certified This Year"
-published: false
-category: "Motivation"
-keywords: ["top, 5, reasons, to, get, aws, certified, this, year"]
+category: Motivation
+date: '2025-06-12'
+description: A detailed guide on Top 5 Reasons to Get AWS Certified This Year
+keywords:
+- top, 5, reasons, to, get, aws, certified, this, year
+published: true
+title: Top 5 Reasons to Get AWS Certified This Year
 ---
 
 # Top 5 Reasons to Get AWS Certified This Year

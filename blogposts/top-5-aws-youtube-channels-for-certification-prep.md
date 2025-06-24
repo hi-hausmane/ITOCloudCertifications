@@ -1,10 +1,11 @@
 ---
-title: "Top 5 AWS YouTube Channels for Certification Prep"
-date: "2025-06-12"
-description: "A detailed guide on Top 5 AWS YouTube Channels for Certification Prep"
-published: false
-category: "Study Tips"
-keywords: ["top, 5, aws, youtube, channels, for, certification, prep"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on Top 5 AWS YouTube Channels for Certification Prep
+keywords:
+- top, 5, aws, youtube, channels, for, certification, prep
+published: true
+title: Top 5 AWS YouTube Channels for Certification Prep
 ---
 
 # Top 5 AWS YouTube Channels for Certification Prep

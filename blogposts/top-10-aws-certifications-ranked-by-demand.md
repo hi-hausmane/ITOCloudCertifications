@@ -1,10 +1,11 @@
 ---
-title: "Top 10 AWS Certifications Ranked by Demand"
-date: "2025-06-12"
-description: "A detailed guide on Top 10 AWS Certifications Ranked by Demand"
-published: false
-category: "Certification Guide"
-keywords: ["top, 10, aws, certifications, ranked, by, demand"]
+category: Certification Guide
+date: '2025-06-12'
+description: A detailed guide on Top 10 AWS Certifications Ranked by Demand
+keywords:
+- top, 10, aws, certifications, ranked, by, demand
+published: true
+title: Top 10 AWS Certifications Ranked by Demand
 ---
 
 # Top 10 AWS Certifications Ranked by Demand

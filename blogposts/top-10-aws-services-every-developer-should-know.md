@@ -1,10 +1,11 @@
 ---
-title: "Top 10 AWS Services Every Developer Should Know"
-date: "2025-06-12"
-description: "A detailed guide on Top 10 AWS Services Every Developer Should Know"
-published: false
-category: "AWS Services"
-keywords: ["top, 10, aws, services, every, developer, should, know"]
+category: AWS Services
+date: '2025-06-12'
+description: A detailed guide on Top 10 AWS Services Every Developer Should Know
+keywords:
+- top, 10, aws, services, every, developer, should, know
+published: true
+title: Top 10 AWS Services Every Developer Should Know
 ---
 
 # Top 10 AWS Services Every Developer Should Know
