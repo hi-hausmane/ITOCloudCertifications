@@ -1,10 +1,11 @@
 ---
-title: "Work-Life Balance After Becoming AWS Certified"
-date: "2025-06-12"
-description: "A detailed guide on Work-Life Balance After Becoming AWS Certified"
-published: false
-category: "Work-Life"
-keywords: ["work-life, balance, after, becoming, aws, certified"]
+category: Work-Life
+date: '2025-06-12'
+description: A detailed guide on Work-Life Balance After Becoming AWS Certified
+keywords:
+- work-life, balance, after, becoming, aws, certified
+published: true
+title: Work-Life Balance After Becoming AWS Certified
 ---
 
 # Work-Life Balance After Becoming AWS Certified
