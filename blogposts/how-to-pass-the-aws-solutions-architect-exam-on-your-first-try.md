@@ -1,10 +1,12 @@
 ---
-title: "How to Pass the AWS Solutions Architect Exam on Your First Try"
-date: "2025-06-12"
-description: "A detailed guide on How to Pass the AWS Solutions Architect Exam on Your First Try"
-published: false
-category: "Exam Experience"
-keywords: ["how, to, pass, the, aws, solutions, architect, exam, on, your, first, try"]
+category: Exam Experience
+date: '2025-06-12'
+description: A detailed guide on How to Pass the AWS Solutions Architect Exam on Your
+  First Try
+keywords:
+- how, to, pass, the, aws, solutions, architect, exam, on, your, first, try
+published: true
+title: How to Pass the AWS Solutions Architect Exam on Your First Try
 ---
 
 # How to Pass the AWS Solutions Architect Exam on Your First Try

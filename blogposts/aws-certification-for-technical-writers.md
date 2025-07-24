@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Technical Writers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Technical Writers"
-published: false
-category: "Study Tips"
-keywords: ["aws, certification, for, technical, writers"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Technical Writers
+keywords:
+- aws, certification, for, technical, writers
+published: true
+title: AWS Certification for Technical Writers
 ---
 
 # AWS Certification for Technical Writers

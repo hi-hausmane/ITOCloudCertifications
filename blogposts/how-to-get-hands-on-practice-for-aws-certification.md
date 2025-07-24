@@ -1,10 +1,11 @@
 ---
-title: "How to Get Hands-on Practice for AWS Certification"
-date: "2025-06-12"
-description: "A detailed guide on How to Get Hands-on Practice for AWS Certification"
-published: false
-category: "Study Tips"
-keywords: ["how, to, get, hands-on, practice, for, aws, certification"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Get Hands-on Practice for AWS Certification
+keywords:
+- how, to, get, hands-on, practice, for, aws, certification
+published: true
+title: How to Get Hands-on Practice for AWS Certification
 ---
 
 # How to Get Hands-on Practice for AWS Certification

@@ -1,10 +1,11 @@
 ---
-title: "Top 5 AWS Certifications for Career Growth"
-date: "2025-06-12"
-description: "A detailed guide on Top 5 AWS Certifications for Career Growth"
-published: false
-category: "Certification Guide"
-keywords: ["top, 5, aws, certifications, for, career, growth"]
+category: Certification Guide
+date: '2025-06-12'
+description: A detailed guide on Top 5 AWS Certifications for Career Growth
+keywords:
+- top, 5, aws, certifications, for, career, growth
+published: true
+title: Top 5 AWS Certifications for Career Growth
 ---
 
 # Top 5 AWS Certifications for Career Growth

@@ -1,10 +1,12 @@
 ---
-title: "AWS Certified: What Recruiters Are Really Looking For"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certified: What Recruiters Are Really Looking For"
-published: false
-category: "Hiring"
-keywords: ["aws, certified:, what, recruiters, are, really, looking, for"]
+category: Hiring
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certified: What Recruiters Are Really Looking
+  For'
+keywords:
+- aws, certified:, what, recruiters, are, really, looking, for
+published: true
+title: 'AWS Certified: What Recruiters Are Really Looking For'
 ---
 
 # AWS Certified: What Recruiters Are Really Looking For

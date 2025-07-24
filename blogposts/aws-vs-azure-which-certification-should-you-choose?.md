@@ -1,10 +1,11 @@
 ---
-title: "AWS vs Azure: Which Certification Should You Choose?"
-date: "2025-06-12"
-description: "A detailed guide on AWS vs Azure: Which Certification Should You Choose?"
-published: false
-category: "Cloud Trends"
-keywords: ["aws, vs, azure:, which, certification, should, you, choose?"]
+category: Cloud Trends
+date: '2025-06-12'
+description: 'A detailed guide on AWS vs Azure: Which Certification Should You Choose?'
+keywords:
+- aws, vs, azure:, which, certification, should, you, choose?
+published: true
+title: 'AWS vs Azure: Which Certification Should You Choose?'
 ---
 
 # AWS vs Azure: Which Certification Should You Choose?

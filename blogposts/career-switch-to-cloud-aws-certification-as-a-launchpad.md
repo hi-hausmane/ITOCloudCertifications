@@ -1,10 +1,11 @@
 ---
-title: "Career Switch to Cloud: AWS Certification as a Launchpad"
-date: "2025-06-12"
-description: "A detailed guide on Career Switch to Cloud: AWS Certification as a Launchpad"
-published: false
-category: "Career Change"
-keywords: ["career, switch, to, cloud:, aws, certification, as, a, launchpad"]
+category: Career Change
+date: '2025-06-12'
+description: 'A detailed guide on Career Switch to Cloud: AWS Certification as a Launchpad'
+keywords:
+- career, switch, to, cloud:, aws, certification, as, a, launchpad
+published: true
+title: 'Career Switch to Cloud: AWS Certification as a Launchpad'
 ---
 
 # Career Switch to Cloud: AWS Certification as a Launchpad

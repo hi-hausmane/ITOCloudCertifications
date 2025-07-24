@@ -1,10 +1,11 @@
 ---
-title: "How AWS Certification Helped Me Negotiate a Raise"
-date: "2025-06-12"
-description: "A detailed guide on How AWS Certification Helped Me Negotiate a Raise"
-published: false
-category: "Salary & Career"
-keywords: ["how, aws, certification, helped, me, negotiate, a, raise"]
+category: Salary & Career
+date: '2025-06-12'
+description: A detailed guide on How AWS Certification Helped Me Negotiate a Raise
+keywords:
+- how, aws, certification, helped, me, negotiate, a, raise
+published: true
+title: How AWS Certification Helped Me Negotiate a Raise
 ---
 
 # How AWS Certification Helped Me Negotiate a Raise

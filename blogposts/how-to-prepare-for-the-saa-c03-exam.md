@@ -1,10 +1,11 @@
 ---
-title: "How to Prepare for the SAA-C03 Exam"
-date: "2025-06-12"
-description: "A detailed guide on How to Prepare for the SAA-C03 Exam"
-published: false
-category: "Certification Guide"
-keywords: ["how, to, prepare, for, the, saa-c03, exam"]
+category: Certification Guide
+date: '2025-06-12'
+description: A detailed guide on How to Prepare for the SAA-C03 Exam
+keywords:
+- how, to, prepare, for, the, saa-c03, exam
+published: true
+title: How to Prepare for the SAA-C03 Exam
 ---
 
 # How to Prepare for the SAA-C03 Exam

@@ -1,10 +1,11 @@
 ---
-title: "AWS S3 Deep Dive: Storage Essentials for the SAA-C03"
-date: "2025-06-12"
-description: "A detailed guide on AWS S3 Deep Dive: Storage Essentials for the SAA-C03"
-published: false
-category: "AWS Services"
-keywords: ["aws, s3, deep, dive:, storage, essentials, for, the, saa-c03"]
+category: AWS Services
+date: '2025-06-12'
+description: 'A detailed guide on AWS S3 Deep Dive: Storage Essentials for the SAA-C03'
+keywords:
+- aws, s3, deep, dive:, storage, essentials, for, the, saa-c03
+published: true
+title: 'AWS S3 Deep Dive: Storage Essentials for the SAA-C03'
 ---
 
 # AWS S3 Deep Dive: Storage Essentials for the SAA-C03

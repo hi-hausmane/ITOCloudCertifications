@@ -1,10 +1,12 @@
 ---
-title: "AWS Certified Architect: What a Day in the Life Looks Like"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certified Architect: What a Day in the Life Looks Like"
-published: false
-category: "Daily Life"
-keywords: ["aws, certified, architect:, what, a, day, in, the, life, looks, like"]
+category: Daily Life
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certified Architect: What a Day in the Life
+  Looks Like'
+keywords:
+- aws, certified, architect:, what, a, day, in, the, life, looks, like
+published: true
+title: 'AWS Certified Architect: What a Day in the Life Looks Like'
 ---
 
 # AWS Certified Architect: What a Day in the Life Looks Like

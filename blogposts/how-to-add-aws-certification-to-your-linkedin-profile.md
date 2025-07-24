@@ -1,10 +1,11 @@
 ---
-title: "How to Add AWS Certification to Your LinkedIn Profile"
-date: "2025-06-12"
-description: "A detailed guide on How to Add AWS Certification to Your LinkedIn Profile"
-published: false
-category: "Salary & Career"
-keywords: ["how, to, add, aws, certification, to, your, linkedin, profile"]
+category: Salary & Career
+date: '2025-06-12'
+description: A detailed guide on How to Add AWS Certification to Your LinkedIn Profile
+keywords:
+- how, to, add, aws, certification, to, your, linkedin, profile
+published: true
+title: How to Add AWS Certification to Your LinkedIn Profile
 ---
 
 # How to Add AWS Certification to Your LinkedIn Profile

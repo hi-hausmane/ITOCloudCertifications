@@ -1,10 +1,11 @@
 ---
-title: "Top Paying AWS Jobs You Can Get After Certification"
-date: "2025-06-12"
-description: "A detailed guide on Top Paying AWS Jobs You Can Get After Certification"
-published: false
-category: "Salary & Career"
-keywords: ["top, paying, aws, jobs, you, can, get, after, certification"]
+category: Salary & Career
+date: '2025-06-12'
+description: A detailed guide on Top Paying AWS Jobs You Can Get After Certification
+keywords:
+- top, paying, aws, jobs, you, can, get, after, certification
+published: true
+title: Top Paying AWS Jobs You Can Get After Certification
 ---
 
 # Top Paying AWS Jobs You Can Get After Certification

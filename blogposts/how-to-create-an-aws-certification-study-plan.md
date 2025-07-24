@@ -1,10 +1,11 @@
 ---
-title: "How to Create an AWS Certification Study Plan"
-date: "2025-06-12"
-description: "A detailed guide on How to Create an AWS Certification Study Plan"
-published: false
-category: "Study Tips"
-keywords: ["how, to, create, an, aws, certification, study, plan"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Create an AWS Certification Study Plan
+keywords:
+- how, to, create, an, aws, certification, study, plan
+published: true
+title: How to Create an AWS Certification Study Plan
 ---
 
 # How to Create an AWS Certification Study Plan

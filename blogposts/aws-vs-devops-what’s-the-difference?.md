@@ -1,10 +1,11 @@
 ---
-title: "AWS vs DevOps: What’s the Difference?"
-date: "2025-06-12"
-description: "A detailed guide on AWS vs DevOps: What’s the Difference?"
-published: false
-category: "Cloud Tips"
-keywords: ["aws, vs, devops:, what’s, the, difference?"]
+category: Cloud Tips
+date: '2025-06-12'
+description: 'A detailed guide on AWS vs DevOps: What’s the Difference?'
+keywords:
+- aws, vs, devops:, what’s, the, difference?
+published: true
+title: 'AWS vs DevOps: What’s the Difference?'
 ---
 
 # AWS vs DevOps: What’s the Difference?

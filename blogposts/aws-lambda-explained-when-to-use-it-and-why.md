@@ -1,10 +1,11 @@
 ---
-title: "AWS Lambda Explained: When to Use It and Why"
-date: "2025-06-12"
-description: "A detailed guide on AWS Lambda Explained: When to Use It and Why"
-published: false
-category: "Cloud Tips"
-keywords: ["aws, lambda, explained:, when, to, use, it, and, why"]
+category: Cloud Tips
+date: '2025-06-12'
+description: 'A detailed guide on AWS Lambda Explained: When to Use It and Why'
+keywords:
+- aws, lambda, explained:, when, to, use, it, and, why
+published: true
+title: 'AWS Lambda Explained: When to Use It and Why'
 ---
 
 # AWS Lambda Explained: When to Use It and Why

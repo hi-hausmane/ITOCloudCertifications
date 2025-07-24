@@ -1,10 +1,12 @@
 ---
-title: "AWS Security Best Practices Every Architect Should Know"
-date: "2025-06-12"
-description: "A detailed guide on AWS Security Best Practices Every Architect Should Know"
-published: false
-category: "AWS Services"
-keywords: ["aws, security, best, practices, every, architect, should, know"]
+category: AWS Services
+date: '2025-06-12'
+description: A detailed guide on AWS Security Best Practices Every Architect Should
+  Know
+keywords:
+- aws, security, best, practices, every, architect, should, know
+published: true
+title: AWS Security Best Practices Every Architect Should Know
 ---
 
 # AWS Security Best Practices Every Architect Should Know

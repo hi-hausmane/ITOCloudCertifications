@@ -1,10 +1,11 @@
 ---
-title: "How AWS Certification Helps in Freelancing and Consulting"
-date: "2025-06-12"
-description: "A detailed guide on How AWS Certification Helps in Freelancing and Consulting"
-published: false
-category: "Freelancing"
-keywords: ["how, aws, certification, helps, in, freelancing, and, consulting"]
+category: Freelancing
+date: '2025-06-12'
+description: A detailed guide on How AWS Certification Helps in Freelancing and Consulting
+keywords:
+- how, aws, certification, helps, in, freelancing, and, consulting
+published: true
+title: How AWS Certification Helps in Freelancing and Consulting
 ---
 
 # How AWS Certification Helps in Freelancing and Consulting

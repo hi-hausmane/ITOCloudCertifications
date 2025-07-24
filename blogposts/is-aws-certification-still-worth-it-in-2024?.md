@@ -1,10 +1,11 @@
 ---
-title: "Is AWS Certification Still Worth It in 2024?"
-date: "2025-06-12"
-description: "A detailed guide on Is AWS Certification Still Worth It in 2024?"
-published: false
-category: "Value"
-keywords: ["is, aws, certification, still, worth, it, in, 2024?"]
+category: Value
+date: '2025-06-12'
+description: A detailed guide on Is AWS Certification Still Worth It in 2024?
+keywords:
+- is, aws, certification, still, worth, it, in, 2024?
+published: true
+title: Is AWS Certification Still Worth It in 2024?
 ---
 
 # Is AWS Certification Still Worth It in 2024?

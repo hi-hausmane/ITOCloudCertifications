@@ -1,10 +1,11 @@
 ---
-title: "AWS IAM Best Practices for Secure Architecture"
-date: "2025-06-12"
-description: "A detailed guide on AWS IAM Best Practices for Secure Architecture"
-published: false
-category: "AWS Services"
-keywords: ["aws, iam, best, practices, for, secure, architecture"]
+category: AWS Services
+date: '2025-06-12'
+description: A detailed guide on AWS IAM Best Practices for Secure Architecture
+keywords:
+- aws, iam, best, practices, for, secure, architecture
+published: true
+title: AWS IAM Best Practices for Secure Architecture
 ---
 
 # AWS IAM Best Practices for Secure Architecture

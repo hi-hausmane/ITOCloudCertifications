@@ -1,10 +1,12 @@
 ---
-title: "AWS Certification vs. Real Experience: What's More Valuable?"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification vs. Real Experience: What's More Valuable?"
-published: false
-category: "Career"
-keywords: ["aws, certification, vs., real, experience:, what's, more, valuable?"]
+category: Career
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certification vs. Real Experience: What''s More
+  Valuable?'
+keywords:
+- aws, certification, vs., real, experience:, what's, more, valuable?
+published: true
+title: 'AWS Certification vs. Real Experience: What''s More Valuable?'
 ---
 
 # AWS Certification vs. Real Experience: What's More Valuable?

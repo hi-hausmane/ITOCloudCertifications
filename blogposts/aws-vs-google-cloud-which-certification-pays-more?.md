@@ -1,10 +1,11 @@
 ---
-title: "AWS vs Google Cloud: Which Certification Pays More?"
-date: "2025-06-12"
-description: "A detailed guide on AWS vs Google Cloud: Which Certification Pays More?"
-published: false
-category: "Cloud Trends"
-keywords: ["aws, vs, google, cloud:, which, certification, pays, more?"]
+category: Cloud Trends
+date: '2025-06-12'
+description: 'A detailed guide on AWS vs Google Cloud: Which Certification Pays More?'
+keywords:
+- aws, vs, google, cloud:, which, certification, pays, more?
+published: true
+title: 'AWS vs Google Cloud: Which Certification Pays More?'
 ---
 
 # AWS vs Google Cloud: Which Certification Pays More?

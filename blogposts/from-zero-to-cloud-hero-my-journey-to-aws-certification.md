@@ -1,10 +1,11 @@
 ---
-title: "From Zero to Cloud Hero: My Journey to AWS Certification"
-date: "2025-06-12"
-description: "A detailed guide on From Zero to Cloud Hero: My Journey to AWS Certification"
-published: false
-category: "Success Story"
-keywords: ["from, zero, to, cloud, hero:, my, journey, to, aws, certification"]
+category: Success Story
+date: '2025-06-12'
+description: 'A detailed guide on From Zero to Cloud Hero: My Journey to AWS Certification'
+keywords:
+- from, zero, to, cloud, hero:, my, journey, to, aws, certification
+published: true
+title: 'From Zero to Cloud Hero: My Journey to AWS Certification'
 ---
 
 # From Zero to Cloud Hero: My Journey to AWS Certification

@@ -1,10 +1,11 @@
 ---
-title: "How AWS Certification Helped Me Land a Remote Job"
-date: "2025-06-12"
-description: "A detailed guide on How AWS Certification Helped Me Land a Remote Job"
-published: false
-category: "Success Story"
-keywords: ["how, aws, certification, helped, me, land, a, remote, job"]
+category: Success Story
+date: '2025-06-12'
+description: A detailed guide on How AWS Certification Helped Me Land a Remote Job
+keywords:
+- how, aws, certification, helped, me, land, a, remote, job
+published: true
+title: How AWS Certification Helped Me Land a Remote Job
 ---
 
 # How AWS Certification Helped Me Land a Remote Job

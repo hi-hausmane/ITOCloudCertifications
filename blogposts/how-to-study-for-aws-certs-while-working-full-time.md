@@ -1,10 +1,11 @@
 ---
-title: "How to Study for AWS Certs While Working Full-Time"
-date: "2025-06-12"
-description: "A detailed guide on How to Study for AWS Certs While Working Full-Time"
-published: false
-category: "Time Management"
-keywords: ["how, to, study, for, aws, certs, while, working, full-time"]
+category: Time Management
+date: '2025-06-12'
+description: A detailed guide on How to Study for AWS Certs While Working Full-Time
+keywords:
+- how, to, study, for, aws, certs, while, working, full-time
+published: true
+title: How to Study for AWS Certs While Working Full-Time
 ---
 
 # How to Study for AWS Certs While Working Full-Time

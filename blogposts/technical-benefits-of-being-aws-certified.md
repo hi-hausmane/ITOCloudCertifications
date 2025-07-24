@@ -1,10 +1,11 @@
 ---
-title: "Technical Benefits of Being AWS Certified"
-date: "2025-06-12"
-description: "A detailed guide on Technical Benefits of Being AWS Certified"
-published: false
-category: "Technical"
-keywords: ["technical, benefits, of, being, aws, certified"]
+category: Technical
+date: '2025-06-12'
+description: A detailed guide on Technical Benefits of Being AWS Certified
+keywords:
+- technical, benefits, of, being, aws, certified
+published: true
+title: Technical Benefits of Being AWS Certified
 ---
 
 # Technical Benefits of Being AWS Certified

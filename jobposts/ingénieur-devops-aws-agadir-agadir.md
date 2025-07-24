@@ -5,7 +5,7 @@ description: Nous recherchons un Ingénieur DevOps AWS expérimenté pour rejoin
   cloud dans le secteur bancaire.
 location: Casablanca, Maroc
 postedDate: '2025-05-25'
-published: false
+published: true
 remote: false
 title: Ingénieur DevOps AWS
 ---
@@ -40,5 +40,3 @@ Banque ABC, un leader du secteur bancaire au Maroc, recherche un Ingénieur DevO
 - Environnement de travail collaboratif et stimulant.
 
 Si vous êtes prêt à relever ce défi et à contribuer à notre succès, nous serions ravis de vous rencontrer !
-
-

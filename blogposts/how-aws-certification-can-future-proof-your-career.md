@@ -1,10 +1,11 @@
 ---
-title: "How AWS Certification Can Future-Proof Your Career"
-date: "2025-06-12"
-description: "A detailed guide on How AWS Certification Can Future-Proof Your Career"
-published: false
-category: "Future Trends"
-keywords: ["how, aws, certification, can, future-proof, your, career"]
+category: Future Trends
+date: '2025-06-12'
+description: A detailed guide on How AWS Certification Can Future-Proof Your Career
+keywords:
+- how, aws, certification, can, future-proof, your, career
+published: true
+title: How AWS Certification Can Future-Proof Your Career
 ---
 
 # How AWS Certification Can Future-Proof Your Career

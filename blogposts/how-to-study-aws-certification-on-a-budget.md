@@ -1,10 +1,11 @@
 ---
-title: "How to Study AWS Certification on a Budget"
-date: "2025-06-12"
-description: "A detailed guide on How to Study AWS Certification on a Budget"
-published: false
-category: "Study Tips"
-keywords: ["how, to, study, aws, certification, on, a, budget"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Study AWS Certification on a Budget
+keywords:
+- how, to, study, aws, certification, on, a, budget
+published: true
+title: How to Study AWS Certification on a Budget
 ---
 
 # How to Study AWS Certification on a Budget

@@ -1,10 +1,11 @@
 ---
-title: "How AWS Changed My Career Path in 6 Months"
-date: "2025-06-12"
-description: "A detailed guide on How AWS Changed My Career Path in 6 Months"
-published: false
-category: "Career"
-keywords: ["how, aws, changed, my, career, path, in, 6, months"]
+category: Career
+date: '2025-06-12'
+description: A detailed guide on How AWS Changed My Career Path in 6 Months
+keywords:
+- how, aws, changed, my, career, path, in, 6, months
+published: true
+title: How AWS Changed My Career Path in 6 Months
 ---
 
 # How AWS Changed My Career Path in 6 Months

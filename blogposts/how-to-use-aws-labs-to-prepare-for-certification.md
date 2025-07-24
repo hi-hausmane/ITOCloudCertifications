@@ -1,10 +1,11 @@
 ---
-title: "How to Use AWS Labs to Prepare for Certification"
-date: "2025-06-12"
-description: "A detailed guide on How to Use AWS Labs to Prepare for Certification"
-published: false
-category: "Study Tips"
-keywords: ["how, to, use, aws, labs, to, prepare, for, certification"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Use AWS Labs to Prepare for Certification
+keywords:
+- how, to, use, aws, labs, to, prepare, for, certification
+published: true
+title: How to Use AWS Labs to Prepare for Certification
 ---
 
 # How to Use AWS Labs to Prepare for Certification

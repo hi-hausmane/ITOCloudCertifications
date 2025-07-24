@@ -1,10 +1,11 @@
 ---
-title: "How to Start Learning AWS from Scratch"
-date: "2025-06-12"
-description: "A detailed guide on How to Start Learning AWS from Scratch"
-published: false
-category: "Study Tips"
-keywords: ["how, to, start, learning, aws, from, scratch"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on How to Start Learning AWS from Scratch
+keywords:
+- how, to, start, learning, aws, from, scratch
+published: true
+title: How to Start Learning AWS from Scratch
 ---
 
 # How to Start Learning AWS from Scratch

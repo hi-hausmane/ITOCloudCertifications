@@ -1,10 +1,11 @@
 ---
-title: "The Mental Shift You Gain from Learning Cloud Architecture"
-date: "2025-06-12"
-description: "A detailed guide on The Mental Shift You Gain from Learning Cloud Architecture"
-published: false
-category: "Mindset"
-keywords: ["the, mental, shift, you, gain, from, learning, cloud, architecture"]
+category: Mindset
+date: '2025-06-12'
+description: A detailed guide on The Mental Shift You Gain from Learning Cloud Architecture
+keywords:
+- the, mental, shift, you, gain, from, learning, cloud, architecture
+published: true
+title: The Mental Shift You Gain from Learning Cloud Architecture
 ---
 
 # The Mental Shift You Gain from Learning Cloud Architecture

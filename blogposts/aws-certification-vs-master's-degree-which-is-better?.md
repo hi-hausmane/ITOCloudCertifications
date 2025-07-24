@@ -1,10 +1,12 @@
 ---
-title: "AWS Certification vs Master's Degree: Which Is Better?"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification vs Master's Degree: Which Is Better?"
-published: false
-category: "Career"
-keywords: ["aws, certification, vs, master's, degree:, which, is, better?"]
+category: Career
+date: '2025-06-12'
+description: 'A detailed guide on AWS Certification vs Master''s Degree: Which Is
+  Better?'
+keywords:
+- aws, certification, vs, master's, degree:, which, is, better?
+published: true
+title: 'AWS Certification vs Master''s Degree: Which Is Better?'
 ---
 
 # AWS Certification vs Master's Degree: Which Is Better?

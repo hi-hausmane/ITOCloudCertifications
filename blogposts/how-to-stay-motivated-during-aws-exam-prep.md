@@ -1,10 +1,11 @@
 ---
-title: "How to Stay Motivated During AWS Exam Prep"
-date: "2025-06-12"
-description: "A detailed guide on How to Stay Motivated During AWS Exam Prep"
-published: false
-category: "Motivation"
-keywords: ["how, to, stay, motivated, during, aws, exam, prep"]
+category: Motivation
+date: '2025-06-12'
+description: A detailed guide on How to Stay Motivated During AWS Exam Prep
+keywords:
+- how, to, stay, motivated, during, aws, exam, prep
+published: true
+title: How to Stay Motivated During AWS Exam Prep
 ---
 
 # How to Stay Motivated During AWS Exam Prep

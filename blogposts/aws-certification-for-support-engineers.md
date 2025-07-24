@@ -1,10 +1,11 @@
 ---
-title: "AWS Certification for Support Engineers"
-date: "2025-06-12"
-description: "A detailed guide on AWS Certification for Support Engineers"
-published: false
-category: "Study Tips"
-keywords: ["aws, certification, for, support, engineers"]
+category: Study Tips
+date: '2025-06-12'
+description: A detailed guide on AWS Certification for Support Engineers
+keywords:
+- aws, certification, for, support, engineers
+published: true
+title: AWS Certification for Support Engineers
 ---
 
 # AWS Certification for Support Engineers

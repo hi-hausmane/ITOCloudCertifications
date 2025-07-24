@@ -1,10 +1,12 @@
 ---
-title: "AWS Practice Exams: Why They Matter and How to Use Them"
-date: "2025-06-12"
-description: "A detailed guide on AWS Practice Exams: Why They Matter and How to Use Them"
-published: false
-category: "Exam Strategy"
-keywords: ["aws, practice, exams:, why, they, matter, and, how, to, use, them"]
+category: Exam Strategy
+date: '2025-06-12'
+description: 'A detailed guide on AWS Practice Exams: Why They Matter and How to Use
+  Them'
+keywords:
+- aws, practice, exams:, why, they, matter, and, how, to, use, them
+published: true
+title: 'AWS Practice Exams: Why They Matter and How to Use Them'
 ---
 
 # AWS Practice Exams: Why They Matter and How to Use Them
