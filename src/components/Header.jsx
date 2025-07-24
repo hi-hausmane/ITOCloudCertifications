@@ -11,7 +11,11 @@ const Header = ({ logoUrl, showBlogLink = true, showJobsLink = true }) => {
           transition={{ duration: 0.5 }}
         >
           <a href="/" className="flex items-center">
-            <img src={logoUrl} alt="AWS Master Course Logo" className="h-10 w-auto" />
+            <img 
+              src="/images/ito.png" 
+              alt="ITO Cloud Certifications Logo" 
+              className="h-10 w-auto" 
+            />
           </a>
         </motion.div>
 
