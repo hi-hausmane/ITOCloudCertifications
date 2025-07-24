@@ -68,6 +68,19 @@ const HeroSection = ({ onEnrollClick }) => {
       7C90B5E72A874036EB8F
     </code>
   </div>
+
+  {/* Email Address */}
+<div className="mt-4">
+  <p className="text-slate-400 text-sm md:text-base">
+    Contact: 
+    <a 
+      href="mailto:hausmane@itocloudcertifications.com"
+      className="text-blue-400 hover:text-blue-300 ml-1 transition"
+    >
+      hausmane@itocloudcertifications.com
+    </a>
+  </p>
+</div>
 </div>
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">

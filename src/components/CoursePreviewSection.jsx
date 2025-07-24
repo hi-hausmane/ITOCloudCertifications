@@ -14,7 +14,7 @@ const CoursePreviewSection = ({ onEnrollClick }) => {
             transition={{ duration: 0.8 }}
           >
             <h2 className="text-3xl md:text-4xl font-bold mb-8">
-              Meet <span className="gradient-text">Hausmane</span>, Our CEO !
+              Hausmane,   <span className="gradient-text">CEO</span>, of ITO Cloud Certifications !
             </h2>
 
             <div className="text-slate-300 leading-relaxed space-y-4">
