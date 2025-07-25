@@ -18,70 +18,64 @@ const HeroSection = ({ onEnrollClick }) => {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8 }}
         >
-          {/* Badge
-          <div className="inline-flex items-center gap-2 bg-blue-500/20 px-4 py-2 rounded-full mb-10 border border-blue-500/30 mx-auto">
-            <Award className="w-5 h-5 text-blue-400" />
-            <span className="text-blue-300 text-sm font-medium">AWS FREE Certifying Training</span>
-          </div>
-           */}
           {/* Headline */}
+          <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-center max-w-4xl mx-auto">
+            <span className="gradient-text">Your</span> AWS Certification <span className="gradient-text">SAA-C03</span><br />
+            <span className="gradient-text">LEAVE US 5 STARS</span> and get new courses
+          </h1>
 
-<h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-center max-w-4xl mx-auto">
-  <span className="gradient-text">Your</span> AWS Certification <span className="gradient-text">SAA-C03</span><br /> 
-</h1>
-          {/* Video */}
-          <div className="my-12 mx-auto max-w-4xl aspect-video rounded-xl overflow-hidden shadow-2xl border border-slate-700">
-            <video
-              controls
-              preload="auto"
-              className="w-full h-full"
-              poster="/videos/UDEMY.png"
-            >
-              <source src="/videos/3000POINTS.mp4" type="video/mp4" />
-              Your browser does not support the video tag.
-            </video>
+{/* Video */}
+<div className="my-12 mx-auto max-w-4xl rounded-xl overflow-hidden shadow-2xl border border-slate-700 bg-slate-900 relative" style={{ aspectRatio: "16 / 9" }}>
+  <iframe
+    src="https://www.youtube.com/embed/qnFEdBHZS0U"
+    title="AWS Course Preview"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowFullScreen
+    sandbox="allow-same-origin allow-scripts allow-presentation allow-popups"
+    className="absolute inset-0 w-full h-full border-none"
+  ></iframe>
+</div>
+
+          {/* Subtitle - Link & Coupon */}
+          <div className="text-slate-300 mb-10 max-w-4xl mx-auto text-center space-y-4">
+            <p className="text-lg md:text-xl">
+              <strong>Enroll now on Udemy — Course is FREE with coupon - 5 STARS + Comment!</strong>
+            </p>
+
+            {/* Udemy Link */}
+            <div>
+              <a 
+                href="https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03"
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-blue-400 hover:text-blue-300 font-mono text-sm md:text-base break-all underline transition block px-2"
+              >
+                https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03
+              </a>
+            </div>
+
+            {/* Coupon Code */}
+            <div>
+              <span className="text-gray-400">Coupon Code:</span>
+              <code className="block mt-2 py-3 px-6 bg-slate-800 text-green-400 rounded-lg font-bold text-lg">
+                7C90B5E72A874036EB8F
+              </code>
+            </div>
+
+            {/* Email Address */}
+            <div className="mt-4">
+              <p className="text-slate-400 text-sm md:text-base">
+                Contact: 
+                <a 
+                  href="mailto:hausmane@itocloudcertifications.com"
+                  className="text-blue-400 hover:text-blue-300 ml-1 transition"
+                >
+                  hausmane@itocloudcertifications.com
+                </a>
+              </p>
+            </div>
           </div>
 
-          {/* Subtitle */}
- {/* Subtitle - Replace with Direct Link and Coupon */}
-<div className="text-slate-300 mb-10 max-w-4xl mx-auto text-center space-y-4">
-  <p className="text-lg md:text-xl">
-    <strong>Enroll now on Udemy — Course is FREE with coupon.</strong>
-  </p>
-
-  {/* Udemy Link */}
-  <div>
-    <a 
-      href="https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03" 
-      target="_blank" 
-      rel="noopener noreferrer"
-      className="text-blue-400 hover:text-blue-300 font-mono text-sm md:text-base break-all underline transition"
-    >
-      https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03
-    </a>
-  </div>
-
-  {/* Coupon Code */}
-  <div>
-    <span className="text-gray-400">Coupon Code:</span>
-    <code className="block mt-2 py-3 px-6 bg-slate-800 text-green-400 rounded-lg font-bold text-lg inline-block">
-      7C90B5E72A874036EB8F
-    </code>
-  </div>
-
-  {/* Email Address */}
-<div className="mt-4">
-  <p className="text-slate-400 text-sm md:text-base">
-    Contact: 
-    <a 
-      href="mailto:hausmane@itocloudcertifications.com"
-      className="text-blue-400 hover:text-blue-300 ml-1 transition"
-    >
-      hausmane@itocloudcertifications.com
-    </a>
-  </p>
-</div>
-</div>
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <Button 
