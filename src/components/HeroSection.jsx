@@ -69,12 +69,15 @@ const HeroSection = () => {
                 494FBE75F75DC4605184
               </code>
             </div>
-
+ <p className="text-md md:text-lg text-blue-300">
+              💡 Having trouble enrolling? Watch the quick video guide below to get started.
+            </p>
           {/* Video Section */}
           <div
             className="my-12 mx-auto max-w-4xl rounded-xl overflow-hidden shadow-2xl border border-slate-700 bg-slate-900 relative"
             style={{ aspectRatio: '16 / 9' }}
           >
+             
             <iframe
               src="https://www.youtube.com/embed/qnFEdBHZS0U"
               title="AWS Course Preview"
@@ -84,7 +87,7 @@ const HeroSection = () => {
               className="absolute inset-0 w-full h-full border-none"
             ></iframe>
           </div>
-          
+
             {/* Backup Udemy Link */}
             <div>
               <a
