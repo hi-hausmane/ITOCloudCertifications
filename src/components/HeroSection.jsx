@@ -47,7 +47,7 @@ const HeroSection = ({ onEnrollClick }) => {
             {/* Udemy Link */}
             <div>
               <a 
-                href="ttps://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/?couponCode=494FBE75F75DC4605184"
+                href="https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/?couponCode=494FBE75F75DC4605184"
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 font-mono text-sm md:text-base break-all underline transition block px-2"
@@ -91,11 +91,12 @@ const HeroSection = ({ onEnrollClick }) => {
           
 {/* CTA Buttons */}
 <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-  <a 
-    href="ttps://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/?couponCode=494FBE75F75DC4605184/" 
-    target="_blank" 
-    rel="noopener noreferrer"
-  >
+              <a 
+                href="https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/?couponCode=494FBE75F75DC4605184"
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="text-blue-400 hover:text-blue-300 font-mono text-sm md:text-base break-all underline transition block px-2"
+              >
     <Button 
       size="lg" 
       className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold pulse-glow"
