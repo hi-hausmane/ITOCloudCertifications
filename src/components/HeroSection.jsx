@@ -23,25 +23,61 @@ const HeroSection = ({ onEnrollClick }) => {
             <span className="gradient-text">LEAVE US 5 STARS</span> and get new courses<br />
           </h1>
           <h2 className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-center max-w-4xl mx-auto">
-             <span className="gradient-text">Your</span> AWS Certification <span className="gradient-text">SAA-C03</span><br />
+            <span className="gradient-text">Your</span> AWS Certification <span className="gradient-text">SAA-C03</span><br />
           </h2>
 
-{/* Video */}
-<div className="my-12 mx-auto max-w-4xl rounded-xl overflow-hidden shadow-2xl border border-slate-700 bg-slate-900 relative" style={{ aspectRatio: "16 / 9" }}>
-  <iframe
-    src="https://www.youtube.com/embed/qnFEdBHZS0U"
-    title="AWS Course Preview"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowFullScreen
-    sandbox="allow-same-origin allow-scripts allow-presentation allow-popups"
-    className="absolute inset-0 w-full h-full border-none"
-  ></iframe>
-</div>
+          {/* Big & Bold Gmail Message - Now Before Video */}
+          <div className="text-center mb-8 max-w-4xl mx-auto">
+            <p className="text-lg md:text-xl font-semibold text-blue-300">
+              ✅ No credit card needed — Udemy only requires a Gmail to sign up!
+            </p>
+          </div>
+
+          {/* Video Section */}
+          <div className="my-12 mx-auto max-w-4xl rounded-xl overflow-hidden shadow-2xl border border-slate-700 bg-slate-900 relative" style={{ aspectRatio: "16 / 9" }}>
+            <iframe
+              src="https://www.youtube.com/embed/qnFEdBHZS0U"
+              title="AWS Course Preview"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              allowFullScreen
+              sandbox="allow-same-origin allow-scripts allow-presentation allow-popups"
+              className="absolute inset-0 w-full h-full border-none"
+              onError={(e) => {
+                e.target.style.display = 'none';
+                const parent = e.target.parentElement;
+                const fallback = parent.querySelector('.video-fallback');
+                if (fallback) fallback.style.display = 'flex';
+              }}
+            ></iframe>
+
+            {/* Fallback if video fails to load */}
+            <div className="video-fallback absolute inset-0 bg-slate-800 flex flex-col items-center justify-center text-center p-6 text-white hidden">
+              <p className="text-lg mb-4">🎥 Video not loading?</p>
+              <a
+                href="https://www.youtube.com/watch?v=qnFEdBHZS0U"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-blue-400 hover:text-blue-300 underline"
+              >
+                Watch the preview on YouTube
+              </a>
+            </div>
+          </div>
 
           {/* Subtitle - Link & Coupon */}
           <div className="text-slate-300 mb-10 max-w-4xl mx-auto text-center space-y-4">
             <p className="text-lg md:text-xl">
               <strong>Enroll now on Udemy — Course is FREE with coupon - 5 STARS + Comment!</strong>
+            </p>
+
+            {/* Urgency Message */}
+            <p className="text-orange-400 font-semibold">
+              ⚠️ Hurry! Only 1 week left — Just 100 spots remaining!
+            </p>
+
+            {/* Video Callout */}
+            <p className="text-slate-300 text-base">
+              Watch the video above for a full walkthrough of what you’ll learn!
             </p>
 
             {/* Udemy Link */}
@@ -78,35 +114,22 @@ const HeroSection = ({ onEnrollClick }) => {
             </div>
           </div>
 
-          {/* CTA Buttons
+          {/* CTA Button */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-            <Button 
-              size="lg" 
-              className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold pulse-glow"
-              onClick={onEnrollClick}
+            <a 
+              href="https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/?couponCode=494FBE75F75DC4605184"
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="block"
             >
-              Start Learning Today <ArrowRight className="ml-2 w-5 h-5" />
-            </Button>
-          </div> */}
-          
-{/* CTA Buttons */}
-<div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-              <a 
-                href="https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/?couponCode=494FBE75F75DC4605184"
-                target="_blank" 
-                rel="noopener noreferrer"
-                className="text-blue-400 hover:text-blue-300 font-mono text-sm md:text-base break-all underline transition block px-2"
+              <Button 
+                size="lg" 
+                className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold pulse-glow"
               >
-    <Button 
-      size="lg" 
-      className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold pulse-glow"
-    >
-      Start Learning Today <ArrowRight className="ml-2 w-5 h-5" />
-    </Button>
-  </a>
-</div>
-
-
+                Start Learning Today <ArrowRight className="ml-2 w-5 h-5" />
+              </Button>
+            </a>
+          </div>
 
           {/* Badges */}
           <div className="flex flex-wrap justify-center gap-8 text-sm text-slate-400">
