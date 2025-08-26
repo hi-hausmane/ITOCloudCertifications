@@ -20,9 +20,11 @@ const HeroSection = ({ onEnrollClick }) => {
         >
           {/* Headline */}
           <h1 className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-center max-w-4xl mx-auto">
-            <span className="gradient-text">Your</span> AWS Certification <span className="gradient-text">SAA-C03</span><br />
-            <span className="gradient-text">LEAVE US 5 STARS</span> and get new courses
+            <span className="gradient-text">LEAVE US 5 STARS</span> and get new courses<br />
           </h1>
+          <h2 className="text-4xl md:text-5xl font-bold mb-6 leading-tight text-center max-w-4xl mx-auto">
+             <span className="gradient-text">Your</span> AWS Certification <span className="gradient-text">SAA-C03</span><br />
+          </h2>
 
 {/* Video */}
 <div className="my-12 mx-auto max-w-4xl rounded-xl overflow-hidden shadow-2xl border border-slate-700 bg-slate-900 relative" style={{ aspectRatio: "16 / 9" }}>
