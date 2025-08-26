@@ -50,7 +50,7 @@ const HeroSection = ({ onEnrollClick }) => {
                 rel="noopener noreferrer"
                 className="text-blue-400 hover:text-blue-300 font-mono text-sm md:text-base break-all underline transition block px-2"
               >
-                https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03
+                https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/?couponCode=494FBE75F75DC4605184
               </a>
             </div>
 
@@ -58,7 +58,7 @@ const HeroSection = ({ onEnrollClick }) => {
             <div>
               <span className="text-gray-400">Coupon Code:</span>
               <code className="block mt-2 py-3 px-6 bg-slate-800 text-green-400 rounded-lg font-bold text-lg">
-                7C90B5E72A874036EB8F
+                494FBE75F75DC4605184
               </code>
             </div>
 
