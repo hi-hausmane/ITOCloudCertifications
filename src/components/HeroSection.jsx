@@ -78,7 +78,7 @@ const HeroSection = ({ onEnrollClick }) => {
             </div>
           </div>
 
-          {/* CTA Buttons */}
+          {/* CTA Buttons
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
             <Button 
               size="lg" 
@@ -87,8 +87,21 @@ const HeroSection = ({ onEnrollClick }) => {
             >
               Start Learning Today <ArrowRight className="ml-2 w-5 h-5" />
             </Button>
-          </div>
+          </div> */}
           
+{/* CTA Buttons */}
+<div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
+  <Button 
+    size="lg" 
+    className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold pulse-glow"
+    onClick={() => window.location.href = "https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/"}
+  >
+    Start Learning Today <ArrowRight className="ml-2 w-5 h-5" />
+  </Button>
+</div>
+
+
+
           {/* Badges */}
           <div className="flex flex-wrap justify-center gap-8 text-sm text-slate-400">
             <div className="flex items-center gap-2">
