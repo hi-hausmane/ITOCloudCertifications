@@ -91,13 +91,18 @@ const HeroSection = ({ onEnrollClick }) => {
           
 {/* CTA Buttons */}
 <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
-  <Button 
-    size="lg" 
-    className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold pulse-glow"
-    onClick={() => window.location.href = "https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/"}
+  <a 
+    href="https://www.udemy.com/course/most-valuable-aws-solutions-architect-associate-saa-c03/" 
+    target="_blank" 
+    rel="noopener noreferrer"
   >
-    Start Learning Today <ArrowRight className="ml-2 w-5 h-5" />
-  </Button>
+    <Button 
+      size="lg" 
+      className="bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white px-8 py-4 text-lg font-semibold pulse-glow"
+    >
+      Start Learning Today <ArrowRight className="ml-2 w-5 h-5" />
+    </Button>
+  </a>
 </div>
 
 
